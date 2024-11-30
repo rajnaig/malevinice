@@ -3,19 +3,19 @@
 @tailwind utilities;
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --color-cream: 255 253 240;
+  --color-sage: 139 155 114;
+  --color-stone: 41 37 36;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+@layer base {
+  body {
+    @apply bg-[rgb(var(--color-cream))] text-[rgb(var(--color-stone))];
   }
 }
 
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .hero-text {
+    @apply text-[rgb(var(--color-cream))];
+  }
 }
