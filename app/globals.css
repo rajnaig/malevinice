@@ -3,19 +3,67 @@
 @tailwind utilities;
 
 :root {
-  --color-cream: 255 253 240;
-  --color-sage: 139 155 114;
-  --color-stone: 41 37 36;
+ /* Main colors */
+ --color-cream: 255 253 240;  /* #FFFDF0 */
+ --color-sage: 139 155 114;   /* #8B9B72 */
+ --color-stone: 41 37 36;     /* #292524 */
+
+ /* Additional UI colors */
+ --color-cream-dark: 245 243 230;  /* Slightly darker cream for hover states */
+ --color-sage-light: 149 165 124;  /* Lighter sage for hover states */
+ --color-overlay: 0 0 0;           /* Black for overlays */
 }
 
 @layer base {
-  body {
-    @apply bg-[rgb(var(--color-cream))] text-[rgb(var(--color-stone))];
-  }
+ html {
+   @apply scroll-smooth;
+ }
+
+ body {
+   @apply bg-[rgb(var(--color-cream))] text-[rgb(var(--color-stone))];
+ }
+
+ /* Typography */
+ h1, h2, h3, h4, h5, h6 {
+   @apply font-serif;
+ }
+
+ /* Focus states for accessibility */
+ *:focus-visible {
+   @apply outline-2 outline-[rgb(var(--color-sage))] outline-offset-2;
+ }
 }
 
 @layer components {
-  .hero-text {
-    @apply text-[rgb(var(--color-cream))];
-  }
+ .hero-text {
+   @apply text-[rgb(var(--color-cream))];
+ }
+
+ /* Button styles */
+ .btn-primary {
+   @apply bg-[rgb(var(--color-sage))] text-[rgb(var(--color-cream))] 
+          px-6 py-2 transition-all duration-200
+          hover:bg-[rgb(var(--color-sage-light))] hover:shadow-md;
+ }
+
+ .btn-secondary {
+   @apply border border-[rgb(var(--color-sage))] text-[rgb(var(--color-sage))]
+          px-6 py-2 transition-all duration-200
+          hover:bg-[rgb(var(--color-sage))]/10;
+ }
+
+ /* Container styles */
+ .container {
+   @apply px-4 mx-auto max-w-7xl;
+ }
+}
+
+/* Animations */
+@keyframes fadeIn {
+ from { opacity: 0; transform: translateY(10px); }
+ to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+ animation: fadeIn 0.5s ease-out forwards;
 }

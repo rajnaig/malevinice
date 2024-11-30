@@ -1,65 +1,61 @@
-import Image from "next/image"
-
-interface Props {
- title: string;
- description: string;
-}
+'use client'
+import Image from 'next/image'
+import { ArrowRight } from 'lucide-react'
+import Link from 'next/link'
 
 export function Hero() {
-    return (
-      <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-        {/* Background with subtle zoom animation */}
-        <div className="absolute inset-0 scale-105 animate-slow-zoom">
-          <Image
-            src="/images/pince.jpg"
-            alt="Szőlőskert"
-            fill
-            className="object-cover"
-            priority
-          />
-          <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/50 to-black/80" />
-        </div>
-   
-        {/* Content */}
-        <div className="container mx-auto px-6 relative z-10 text-center">
-          <div className="max-w-3xl mx-auto space-y-12 animate-fade-in">
-            {/* Main content with staggered animation */}
-            <div className="space-y-8">
-              <div className="space-y-2">
-                <p className="text-[rgb(var(--color-sage))] font-serif tracking-widest uppercase text-sm">
-                  Est. 1920
-                </p>
-                <h1 className="font-serif text-[rgb(var(--color-cream))] text-6xl md:text-7xl lg:text-8xl">
-                  Malé Vinice
-                </h1>
-                <p className="font-serif text-[rgb(var(--color-cream))]/80 tracking-[0.2em]">
-                  Kisgéres • Malý Horeš
-                </p>
-              </div>
-   
-              <p className="font-serif text-[rgb(var(--color-cream))]/90 text-xl leading-relaxed max-w-2xl mx-auto">
-                Négy generáció borkészítési hagyománya a királyhelmeci borvidéken.
-                Az Olaszrizling szerelmesei vagyunk.
-              </p>
-            </div>
-   
-            {/* Buttons with modern hover effects */}
-            <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-              <button className="group relative px-8 py-3 bg-[rgb(var(--color-sage))] overflow-hidden">
-                <span className="relative z-10 font-serif text-[rgb(var(--color-cream))]">
-                  Boraink
-                </span>
-                <div className="absolute inset-0 bg-[rgb(var(--color-cream))] translate-y-full group-hover:translate-y-0 transition-transform" />
-              </button>
-              <button className="group relative px-8 py-3 border border-[rgb(var(--color-cream))]">
-                <span className="relative z-10 font-serif text-[rgb(var(--color-cream))] group-hover:text-[rgb(var(--color-stone))] transition-colors">
-                  Látogasson meg
-                </span>
-                <div className="absolute inset-0 bg-[rgb(var(--color-cream))] scale-x-0 group-hover:scale-x-100 transition-transform origin-left" />
-              </button>
-            </div>
-          </div>
-        </div>
-      </section>
-    )
-   }
+ return (
+   <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
+     {/* Background */}
+     <div className="absolute inset-0">
+       <Image
+         src="/images/pince.jpg"
+         alt="Male Vinice cellar"
+         fill
+         className="object-cover"
+         priority
+       />
+       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/50 to-black/70" />
+     </div>
+
+     {/* Content */}
+     <div className="relative z-10 container mx-auto px-4">
+       <div className="max-w-3xl mx-auto text-center space-y-8">
+         {/* Established date */}
+         <p className="text-[rgb(var(--color-cream))]/80 tracking-[0.2em] text-sm uppercase">
+           Est. 1920
+         </p>
+
+         {/* Main headline */}
+         <h1 className="text-5xl md:text-7xl font-serif text-[rgb(var(--color-cream))] font-bold leading-tight">
+           Crafting Excellence in Every Bottle
+         </h1>
+
+         {/* Location */}
+         <div className="flex items-center justify-center space-x-4 text-[rgb(var(--color-cream))]/90">
+           <span className="h-[1px] w-12 bg-[rgb(var(--color-cream))]/30" />
+           <span className="font-serif text-lg">Kisgéres · Malý Horeš</span>
+           <span className="h-[1px] w-12 bg-[rgb(var(--color-cream))]/30" />
+         </div>
+
+         {/* Description */}
+         <p className="text-xl text-[rgb(var(--color-cream))]/80 max-w-2xl mx-auto leading-relaxed">
+           Experience our legacy of winemaking, where tradition meets innovation 
+           in every bottle of our exquisite Italian Riesling.
+         </p>
+
+         {/* CTA */}
+         <div className="pt-4">
+           <Link
+             href="/wine"
+             className="inline-flex items-center px-8 py-4 bg-[rgb(var(--color-cream))] text-[rgb(var(--color-sage))] rounded-full text-lg font-medium hover:bg-white transition-all duration-300 hover:scale-105"
+           >
+             Discover Our Wines
+             <ArrowRight className="ml-2 h-6 w-6" />
+           </Link>
+         </div>
+       </div>
+     </div>
+   </section>
+ )
+}
