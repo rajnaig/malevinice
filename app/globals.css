@@ -67,3 +67,56 @@
 .animate-fade-in {
  animation: fadeIn 0.5s ease-out forwards;
 }
+
+/* Vine drawing animations */
+@keyframes drawVine {
+  from {
+    stroke-dashoffset: 1000;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+/* Different speed variants */
+.animate-draw-slow {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: drawVine 3s ease-out forwards;
+}
+
+.animate-draw-medium {
+  stroke-dasharray: 1000;
+  stroke-dashoffset: 1000;
+  animation: drawVine 2s ease-out forwards;
+}
+
+/* Fade in animation for leaves */
+@keyframes fadeInLeaf {
+  0% {
+    opacity: 0;
+    transform: scale(0.8) rotate(-10deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(0);
+  }
+}
+
+.animate-fade-in-slow {
+  opacity: 0;
+  animation: fadeInLeaf 1s ease-out forwards;
+}
+
+/* Delay utilities */
+.delay-300 {
+  animation-delay: 300ms;
+}
+
+.delay-600 {
+  animation-delay: 600ms;
+}
+
+.delay-900 {
+  animation-delay: 900ms;
+}
