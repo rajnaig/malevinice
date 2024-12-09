@@ -1,41 +1,37 @@
-// components/sections/contact.tsx
 'use client'
+import { Phone as PhoneIcon, MapPin as MapPinIcon, Globe as GlobeIcon } from 'lucide-react'
+import { useTranslations } from 'next-intl'
 
 export function Contact() {
+    const t = useTranslations('contact')
+
     return (
         <section className="py-32">
             <div className="container mx-auto px-4">
                 <div className="max-w-6xl mx-auto space-y-16">
-                    {/* Header */}
                     <div className="max-w-xl mx-auto text-center space-y-4">
                         <span className="text-[rgb(var(--color-sage))] text-sm font-medium tracking-wider uppercase">
-                            Contact Us
+                            {t('subtitle')}
                         </span>
                         <h2 className="text-4xl font-serif text-[rgb(var(--color-stone))]">
-                            Visit Our Family Cellar
+                            {t('title')}
                         </h2>
                     </div>
 
-                    {/* Content Grid */}
                     <div className="grid lg:grid-cols-2 gap-16">
-                        {/* Left Column - Contact Info */}
                         <div className="space-y-12">
-                            {/* Main Contact Card */}
-                            <div className="bg-white rounded-2xl p-8 shadow-sm">
+                            <div className="bg-[#f3f3e3] rounded-2xl p-8 shadow-sm">
                                 <div className="space-y-8">
-                                    {/* Winemaker */}
                                     <div>
                                         <h3 className="text-xl font-serif text-[rgb(var(--color-stone))]">
                                             Tibor Filep
                                         </h3>
                                         <p className="text-[rgb(var(--color-stone))]/60 mt-1">
-                                            Winemaker & Owner
+                                            {t('role')}
                                         </p>
                                     </div>
 
-                                    {/* Contact Grid */}
                                     <div className="grid gap-6">
-                                        {/* Phone */}
                                         <a
                                             href="tel:+421911497524"
                                             className="flex items-center gap-4 p-4 rounded-xl hover:bg-[rgb(var(--color-cream))] transition-colors"
@@ -45,7 +41,7 @@ export function Contact() {
                                             </div>
                                             <div>
                                                 <p className="text-sm text-[rgb(var(--color-stone))]/60">
-                                                    Phone
+                                                    {t('phoneLabel')}
                                                 </p>
                                                 <p className="text-[rgb(var(--color-stone))]">
                                                     +421 911 497 524
@@ -53,14 +49,13 @@ export function Contact() {
                                             </div>
                                         </a>
 
-                                        {/* Address */}
-                                        <div className="flex items-start gap-4 p-4 rounded-xl">
+                                        <div className="hover:bg-[rgb(var(--color-cream))] transition-colors flex items-start gap-4 p-4 rounded-xl">
                                             <div className="text-[rgb(var(--color-sage))]">
                                                 <MapPinIcon className="h-5 w-5" />
                                             </div>
                                             <div>
                                                 <p className="text-sm text-[rgb(var(--color-stone))]/60">
-                                                    Address
+                                                    {t('addressLabel')}
                                                 </p>
                                                 <p className="text-[rgb(var(--color-stone))]">
                                                     Hlavná 343
@@ -69,19 +64,18 @@ export function Contact() {
                                                     076 52 Malý Horeš
                                                 </p>
                                                 <p className="text-[rgb(var(--color-stone))]/60">
-                                                    Vínny dvor - Malý Horeš / Borudvar Kisgéres
+                                                    {t('wineryName')}
                                                 </p>
                                             </div>
                                         </div>
 
-                                        {/* Languages */}
-                                        <div className="flex items-start gap-4 p-4 rounded-xl">
+                                        <div className="flex items-start gap-4 p-4 rounded-xl hover:bg-[rgb(var(--color-cream))] transition-colors">
                                             <div className="text-[rgb(var(--color-sage))]">
                                                 <GlobeIcon className="h-5 w-5" />
                                             </div>
                                             <div>
                                                 <p className="text-sm text-[rgb(var(--color-stone))]/60">
-                                                    Languages
+                                                    {t('languagesLabel')}
                                                 </p>
                                                 <p className="text-[rgb(var(--color-stone))]">
                                                     Magyar • Slovenský
@@ -92,19 +86,16 @@ export function Contact() {
                                 </div>
                             </div>
 
-                            {/* Visit Info Card */}
                             <div className="bg-[rgb(var(--color-sage))]/10 rounded-2xl p-8">
                                 <h4 className="text-lg font-serif text-[rgb(var(--color-sage))] mb-3">
-                                    Planning Your Visit
+                                    {t('visitTitle')}
                                 </h4>
                                 <p className="text-[rgb(var(--color-stone))]/70 leading-relaxed">
-                                    We welcome visitors for personalized wine tastings and cellar tours.
-                                    Please contact us in advance to schedule your visit.
+                                    {t('visitInfo')}
                                 </p>
                             </div>
                         </div>
 
-                        {/* Right Column - Map */}
                         <div className="rounded-2xl overflow-hidden shadow-sm bg-white h-[600px]">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!4v1701347123456!6m8!1m7!1steRqJWUdZ0SyGrT_7y8kQg!2m2!1d48.4040917!2d21.9505346!3f8.62!4f0!5f0.75"
@@ -115,7 +106,6 @@ export function Contact() {
                                 loading="lazy"
                                 referrerPolicy="no-referrer-when-downgrade"
                             />
-
                         </div>
                     </div>
                 </div>
@@ -123,5 +113,3 @@ export function Contact() {
         </section>
     )
 }
-
-import { Phone as PhoneIcon, MapPin as MapPinIcon, Globe as GlobeIcon } from 'lucide-react'

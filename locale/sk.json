@@ -1,0 +1,41 @@
+{
+    "nav": {
+        "home": "Domov",
+        "wines": "Naše Vína",
+        "visit": "Navštívte Nás",
+        "about": "O Nás",
+        "contact": "Kontakt",
+        "shop": "E-shop",
+        "heritage": "Dedičstvo"
+    },
+    "hero": {
+        "cellarAlt": "Pivnica Male Vinice",
+        "established": "Zal. 1920",
+        "headline": "Dokonalosť v každej fľaši",
+        "location": "Kisgéres · Malý Horeš",
+        "description": "Zažite naše vinárske dedičstvo, kde sa tradícia spája s inováciou v každej fľaši nášho výnimočného Vlašského rizlingu.",
+        "cta": "Objavte naše vína"
+    },
+    "wine": {
+        "subtitle": "Naše Víno",
+        "title": "Vlašský Rizling",
+        "imageAlt": "Male Vinice Vlašský Rizling",
+        "tagline": "Vyrobené s vášňou",
+        "tastingNotesTitle": "Chuťový profil",
+        "tastingNotes": "Elegantné arómy bielych kvetov a citrusov, s náznakom medu a kôstkového ovocia. Svieže a vyvážené s dlhou minerálnou dochuťou.",
+        "productionTitle": "Výroba",
+        "production": "Ručne zbierané a starostlivo vinifikované v malých dávkach (600-700L) pre zachovanie autentického charakteru nášho terroiru.",
+        "vintagesTitle": "Dostupné ročníky"
+    },
+    "contact": {
+        "subtitle": "Kontaktujte Nás",
+        "title": "Navštívte našu rodinnú pivnicu",
+        "role": "Vinár & Majiteľ",
+        "phoneLabel": "Telefón",
+        "addressLabel": "Adresa",
+        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+        "languagesLabel": "Jazyky",
+        "visitTitle": "Plánovanie návštevy",
+        "visitInfo": "Radi vás privítame na personalizovaných degustáciách vína a prehliadkach pivnice. Prosím, kontaktujte nás vopred pre dohodnutie termínu návštevy."
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "nav": {
+        "home": "Főoldal",
+        "wines": "Boraink",
+        "visit": "Látogatás",
+        "about": "Rólunk",
+        "contact": "Kapcsolat",
+        "shop": "Webshop",
+        "heritage": "Örökség"
+    },
+    "hero": {
+        "cellarAlt": "Male Vinice pince",
+        "established": "Alapítva 1920",
+        "headline": "Kiválóság minden palackban",
+        "location": "Kisgéres · Malý Horeš",
+        "description": "Ismerje meg borászati örökségünket, ahol a hagyomány és az innováció találkozik minden palack olaszrizlingünkben.",
+        "cta": "Fedezze fel borainkat"
+    },
+    "wine": {
+        "subtitle": "Boraink",
+        "title": "Olaszrizling",
+        "imageAlt": "Male Vinice Olaszrizling",
+        "tagline": "Szenvedéllyel készítve",
+        "tastingNotesTitle": "Kóstolási jegyzet",
+        "tastingNotes": "Elegáns fehér virágok és citrusfélék aromája, méz és csonthéjas gyümölcsök árnyalataival. Friss és kiegyensúlyozott, hosszú ásványos lecsengéssel.",
+        "productionTitle": "Készítés",
+        "production": "Kézzel szüretelt és gondosan kis tételekben (600-700L) vinifikált, hogy megőrizze terroir-unk autentikus karakterét.",
+        "vintagesTitle": "Elérhető évjáratok"
+    },
+    "contact": {
+        "subtitle": "Kapcsolat",
+        "title": "Látogasson el családi pincénkbe",
+        "role": "Borász & Tulajdonos",
+        "phoneLabel": "Telefon",
+        "addressLabel": "Cím",
+        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+        "languagesLabel": "Nyelvek",
+        "visitTitle": "Látogatás tervezése",
+        "visitInfo": "Szeretettel várjuk látogatóinkat személyre szabott borkóstolókra és pincelátogatásokra. Kérjük, előzetesen egyeztessen időpontot."
+      }
+}

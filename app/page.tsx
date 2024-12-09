@@ -1,5 +1,4 @@
 // app/page.tsx
-import { Contact } from "@/components/contact"
 import { Feature } from "@/components/feature"
 import Footer from "@/components/footer"
 import { Header } from "@/components/header"
@@ -11,13 +10,13 @@ import { Timeline } from "@/components/timeline"
 export default function Home() {
   return (
     <>
-      <Header />
+      {/* <Header />
       <Hero />
       <WineShowcase />
       <Contact />
       <Feature />
       <Timeline />
-      <Footer />
+      <Footer /> */}
     </>
   )
 }

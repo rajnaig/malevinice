@@ -5,17 +5,20 @@ import Image from 'next/image'
 import { usePathname } from 'next/navigation'
 import { motion } from 'framer-motion'
 import { Menu, X } from 'lucide-react'
-
-const navigation = [
- { name: 'Home', href: '/' },
- { name: 'Our Wine', href: '/wine' },
- { name: 'Heritage', href: '/heritage' },
- { name: 'Visit', href: '/visit' },
-]
+import { useTranslations } from 'next-intl'
+import LanguageSelector from './languageSelector'
 
 export function Header() {
  const [isOpen, setIsOpen] = useState(false)
  const pathname = usePathname()
+ const t = useTranslations('nav')
+
+ const navigation = [
+   { name: t('home'), href: '/' },
+   { name: t('wines'), href: '/wine' },
+   { name: t('heritage'), href: '/heritage' },
+   { name: t('visit'), href: '/visit' },
+ ]
 
  return (
    <header className="fixed w-full bg-[rgb(var(--color-cream))]/90 backdrop-blur-md z-50 shadow-sm">
@@ -35,7 +38,7 @@ export function Header() {
          </Link>
          
          {/* Desktop Navigation */}
-         <div className="hidden md:flex space-x-8">
+         <div className="hidden md:flex items-center space-x-8">
            {navigation.map((item) => (
              <Link
                key={item.name}
@@ -52,14 +55,18 @@ export function Header() {
                )}
              </Link>
            ))}
+           <LanguageSelector />
          </div>
 
-         <button
-           className="md:hidden text-[rgb(var(--color-stone))] hover:text-[rgb(var(--color-sage))] transition-colors"
-           onClick={() => setIsOpen(!isOpen)}
-         >
-           {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
-         </button>
+         <div className="md:hidden flex items-center space-x-4">
+           <LanguageSelector />
+           <button
+             className="text-[rgb(var(--color-stone))] hover:text-[rgb(var(--color-sage))] transition-colors"
+             onClick={() => setIsOpen(!isOpen)}
+           >
+             {isOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
+           </button>
+         </div>
        </div>
 
        {/* Mobile Navigation */}

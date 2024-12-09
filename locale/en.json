@@ -1,0 +1,41 @@
+{
+    "nav": {
+        "home": "Home",
+        "wines": "Our Wines",
+        "visit": "Visit Us",
+        "about": "About",
+        "contact": "Contact",
+        "shop": "Shop",
+        "heritage": "Heritage"
+    },
+    "hero": {
+        "cellarAlt": "Male Vinice cellar",
+        "established": "Est. 1920",
+        "headline": "Crafting Excellence in Every Bottle",
+        "location": "Kisgéres · Malý Horeš",
+        "description": "Experience our legacy of winemaking, where tradition meets innovation in every bottle of our exquisite Italian Riesling.",
+        "cta": "Discover Our Wines"
+    },
+    "wine": {
+        "subtitle": "Our Wine",
+        "title": "Italian Riesling",
+        "imageAlt": "Male Vinice Italian Riesling",
+        "tagline": "Crafted with Passion",
+        "tastingNotesTitle": "Tasting Notes",
+        "tastingNotes": "Elegant aromas of white flowers and citrus, with hints of honey and stone fruits. Fresh and balanced with a long mineral finish.",
+        "productionTitle": "Production",
+        "production": "Hand-harvested and carefully vinified in small batches (600-700L) to preserve the authentic character of our terroir.",
+        "vintagesTitle": "Available Vintages"
+    },
+    "contact": {
+        "subtitle": "Contact Us",
+        "title": "Visit Our Family Cellar",
+        "role": "Winemaker & Owner",
+        "phoneLabel": "Phone",
+        "addressLabel": "Address",
+        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+        "languagesLabel": "Languages",
+        "visitTitle": "Planning Your Visit",
+        "visitInfo": "We welcome visitors for personalized wine tastings and cellar tours. Please contact us in advance to schedule your visit."
+      }
+}
