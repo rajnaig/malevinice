@@ -37,5 +37,60 @@
         "languagesLabel": "Jazyky",
         "visitTitle": "Plánovanie návštevy",
         "visitInfo": "Radi vás privítame na personalizovaných degustáciách vína a prehliadkach pivnice. Prosím, kontaktujte nás vopred pre dohodnutie termínu návštevy."
-    }
+    },
+    "feature": {
+        "subtitle": "Naša filozofia",
+        "title": "Podstata Malé Vinice",
+        "heritage": {
+            "title": "Dedičstvo",
+            "description": "Štyri generácie rodinnej vinárskej tradície od roku 1920, zachovávajúc znalosti a vášeň našich predkov."
+        },
+        "terroir": {
+            "title": "Terroir",
+            "description": "Naše vinice profitujú z jedinečnej mikroklímy a pôdy vinárskeho regiónu Kráľovský Chlmec."
+        },
+        "craft": {
+            "title": "Remeslo",
+            "description": "Špecializujeme sa na Vlašský rizling, vyrábame limitované množstvá (600-700L) s dôkladnou pozornosťou na detail."
+        }
+    },
+    "timeline": {
+        "subtitle": "Naša cesta",
+        "title": "Storočie vinárstva",
+        "events": {
+            "1920": {
+                "title": "Založenie",
+                "description": "Náš pradedo založil prvý rodinný vinohrad v Malom Horeši (Kisgéres)."
+            },
+            "1950": {
+                "title": "Druhá generácia",
+                "description": "Rozširovanie vinohradov a zameranie na tradičné metódy výroby vína."
+            },
+            "1980": {
+                "title": "Zameranie na Vlašský rizling",
+                "description": "Tretia generácia sa špecializovala na produkciu Vlašského rizlingu."
+            },
+            "2020": {
+                "title": "Moderná éra",
+                "description": "Štvrtá generácia pokračuje v dedičstve a zároveň využíva moderné vinárske techniky."
+            }
+        }
+    },
+    "footer": {
+        "contact": {
+          "title": "Kontakt",
+          "address": "Malý Horeš 123\n076 52 Slovensko"
+        },
+        "quickLinks": {
+          "title": "Rýchle odkazy",
+          "home": "Domov",
+          "heritage": "Dedičstvo",
+          "wines": "Naše vína",
+          "visit": "Navštívte nás"
+        },
+        "bottomBar": {
+          "rights": "© {year} Male Vinice. Všetky práva vyhradené.",
+          "madeBy": "Vytvoril"
+        }
+      }
 }

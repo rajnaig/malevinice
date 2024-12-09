@@ -37,5 +37,60 @@
         "languagesLabel": "Nyelvek",
         "visitTitle": "Látogatás tervezése",
         "visitInfo": "Szeretettel várjuk látogatóinkat személyre szabott borkóstolókra és pincelátogatásokra. Kérjük, előzetesen egyeztessen időpontot."
+    },
+    "feature": {
+        "subtitle": "Filozófiánk",
+        "title": "A Malé Vinice lényege",
+        "heritage": {
+            "title": "Örökség",
+            "description": "Négy generációs családi borászati hagyomány 1920 óta, őseink tudásának és szenvedélyének megőrzésével."
+        },
+        "terroir": {
+            "title": "Terroir",
+            "description": "Szőlőültetvényeink a királyhelmeci borvidék egyedülálló mikroklímájának és talajának előnyeit élvezik."
+        },
+        "craft": {
+            "title": "Mesterség",
+            "description": "Az olaszrizlingre specializálódva, korlátozott mennyiségben (600-700L) készítjük borainkat, aprólékos odafigyeléssel."
+        }
+    },
+    "timeline": {
+        "subtitle": "Utunk",
+        "title": "Egy évszázad borászat",
+        "events": {
+            "1920": {
+                "title": "Az alapítás",
+                "description": "Dédnagyapánk megalapította az első családi szőlőbirtokot Kisgéresen (Malý Horeš)."
+            },
+            "1950": {
+                "title": "Második generáció",
+                "description": "A szőlőterületek bővítése és a hagyományos borkészítési módszerek előtérbe helyezése."
+            },
+            "1980": {
+                "title": "Olaszrizling fókusz",
+                "description": "A harmadik generáció az olaszrizling termelésére szakosodott."
+            },
+            "2020": {
+                "title": "Modern korszak",
+                "description": "A negyedik generáció folytatja az örökséget, miközben modern borkészítési technikákat alkalmaz."
+            }
+        }
+    },
+    "footer": {
+        "contact": {
+          "title": "Kapcsolat",
+          "address": "Malý Horeš 123\n076 52 Szlovákia"
+        },
+        "quickLinks": {
+          "title": "Gyors linkek",
+          "home": "Főoldal",
+          "heritage": "Örökség",
+          "wines": "Boraink",
+          "visit": "Látogatás"
+        },
+        "bottomBar": {
+          "rights": "© {year} Male Vinice. Minden jog fenntartva.",
+          "madeBy": "Készítette"
+        }
       }
 }
