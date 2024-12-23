@@ -7,6 +7,7 @@
     "contact": "Kontakt",
     "shop": "E-shop",
     "philosophy": "Filozofia",
+    "winemaker": "Vinár",
     "heritage": "Dedičstvo"
   },
   "hero": {
@@ -83,11 +84,13 @@
       "address": "Malý Horeš 123\n076 52 Slovensko"
     },
     "quickLinks": {
-      "title": "Rýchle odkazy",
+      "title": "Rýchle Odkazy",
       "home": "Domov",
       "heritage": "Dedičstvo",
-      "wines": "Naše vína",
-      "visit": "Navštívte nás"
+      "wines": "Naše Vína",
+      "visit": "Navštívte Nás",
+      "philosophy": "Filozofia",
+      "winemaker": "Vinár"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Všetky práva vyhradené.",

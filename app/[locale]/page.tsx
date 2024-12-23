@@ -1,6 +1,6 @@
 import { Contact } from '@/components/contact'
 import { Feature } from '@/components/feature'
-import Footer from '@/components/footer'
+import { Footer } from '@/components/footer'
 import { Header } from '@/components/header'
 import { Hero } from '@/components/hero'
 import WineShowcase from '@/components/showcase'

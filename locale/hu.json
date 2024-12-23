@@ -7,6 +7,7 @@
     "contact": "Kapcsolat",
     "shop": "Webshop",
     "philosophy": "Filozófiánk",
+    "winemaker": "Borászunk",
     "heritage": "Örökség"
   },
   "hero": {
@@ -83,11 +84,13 @@
       "address": "Malý Horeš 123\n076 52 Szlovákia"
     },
     "quickLinks": {
-      "title": "Gyors linkek",
+      "title": "Gyors Linkek",
       "home": "Főoldal",
-      "heritage": "Örökség",
+      "heritage": "Örökségünk",
       "wines": "Boraink",
-      "visit": "Látogatás"
+      "visit": "Látogatás",
+      "philosophy": "Filozófiánk",
+      "winemaker": "A Borász"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Minden jog fenntartva.",

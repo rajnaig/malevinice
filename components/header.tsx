@@ -19,6 +19,7 @@ export function Header() {
 
   const navigation = [
     { name: t('home'), href: '#hero' },
+    { name: t('winemaker'), href: '#winemaker' },
     { name: t('wines'), href: '#wine' },
     { name: t('visit'), href: '#visit' },
     { name: t('philosophy'), href: '#philosophy' },

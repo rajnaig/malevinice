@@ -7,6 +7,7 @@
     "contact": "Contacto",
     "shop": "Tienda",
     "philosophy": "Filosofía",
+    "winemaker": "Vinicultor",
     "heritage": "Herencia"
   },
   "hero": {
@@ -87,7 +88,9 @@
       "home": "Inicio",
       "heritage": "Herencia",
       "wines": "Nuestros Vinos",
-      "visit": "Visítanos"
+      "visit": "Visítanos",
+      "philosophy": "Filosofía",
+      "winemaker": "Vinicultor"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Todos los derechos reservados.",

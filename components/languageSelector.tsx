@@ -1,3 +1,5 @@
+'use client'
+
 import React, { useState } from 'react';
 import { Check, ChevronDown, Globe } from 'lucide-react';
 import { useLocale, useTranslations } from 'next-intl';
@@ -46,7 +48,7 @@ const LanguageSelector = () => {
 
   const handleLanguageChange = (languageCode: string) => {
     const newPath = pathname.replace(`/${locale}`, `/${languageCode}`);
-    router.push(newPath);
+    router.push(newPath, { scroll: false });  // Megakadályozzuk az automatikus scrollozást
     setIsOpen(false);
   };
 

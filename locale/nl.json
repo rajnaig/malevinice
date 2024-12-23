@@ -7,6 +7,7 @@
     "contact": "Contact",
     "shop": "Winkel",
     "philosophy": "Filosofie",
+    "winemaker": "Wijnmaker",
     "heritage": "Erfgoed"
   },
   "hero": {
@@ -87,7 +88,9 @@
       "home": "Home",
       "heritage": "Erfgoed",
       "wines": "Onze Wijnen",
-      "visit": "Bezoek Ons"
+      "visit": "Bezoek Ons",
+      "philosophy": "Filosofie",
+      "winemaker": "Wijnmaker"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Alle rechten voorbehouden.",
