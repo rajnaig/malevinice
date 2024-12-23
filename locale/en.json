@@ -1,96 +1,108 @@
 {
-    "nav": {
-        "home": "Home",
-        "wines": "Our Wines",
-        "visit": "Visit Us",
-        "about": "About",
-        "contact": "Contact",
-        "shop": "Shop",
-        "heritage": "Heritage"
+  "nav": {
+    "home": "Home",
+    "wines": "Our Wines",
+    "visit": "Visit Us",
+    "about": "About",
+    "contact": "Contact",
+    "shop": "Shop",
+    "philosophy": "Philosophy",
+    "heritage": "Heritage"
+  },
+  "hero": {
+    "cellarAlt": "Male Vinice cellar",
+    "established": "Est. 1920",
+    "headline": "Crafting Excellence in Every Bottle",
+    "location": "Kisgéres · Malý Horeš",
+    "description": "Experience our legacy of winemaking, where tradition meets innovation in every bottle of our exquisite Italian Riesling.",
+    "cta": "Discover Our Wines"
+  },
+  "wine": {
+    "subtitle": "Our Wine",
+    "title": "Italian Riesling",
+    "imageAlt": "Male Vinice Italian Riesling",
+    "tagline": "Crafted with Passion",
+    "tastingNotesTitle": "Tasting Notes",
+    "tastingNotes": "Elegant aromas of white flowers and citrus, with hints of honey and stone fruits. Fresh and balanced with a long mineral finish.",
+    "productionTitle": "Production",
+    "production": "Hand-harvested and carefully vinified in small batches (600-700L) to preserve the authentic character of our terroir.",
+    "vintagesTitle": "Available Vintages"
+  },
+  "contact": {
+    "subtitle": "Contact Us",
+    "title": "Visit Our Family Cellar",
+    "role": "Winemaker & Owner",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+    "languagesLabel": "Languages",
+    "visitTitle": "Planning Your Visit",
+    "visitInfo": "We welcome visitors for personalized wine tastings and cellar tours. Please contact us in advance to schedule your visit."
+  },
+  "feature": {
+    "subtitle": "Our Philosophy",
+    "title": "The Essence of Malé Vinice",
+    "heritage": {
+      "title": "Heritage",
+      "description": "Four generations of family winemaking tradition since 1920, preserving our ancestors' knowledge and passion."
     },
-    "hero": {
-        "cellarAlt": "Male Vinice cellar",
-        "established": "Est. 1920",
-        "headline": "Crafting Excellence in Every Bottle",
-        "location": "Kisgéres · Malý Horeš",
-        "description": "Experience our legacy of winemaking, where tradition meets innovation in every bottle of our exquisite Italian Riesling.",
-        "cta": "Discover Our Wines"
+    "terroir": {
+      "title": "Terroir",
+      "description": "Our vineyards benefit from the unique microclimate and soil of the Királyhelmec wine region."
     },
-    "wine": {
-        "subtitle": "Our Wine",
-        "title": "Italian Riesling",
-        "imageAlt": "Male Vinice Italian Riesling",
-        "tagline": "Crafted with Passion",
-        "tastingNotesTitle": "Tasting Notes",
-        "tastingNotes": "Elegant aromas of white flowers and citrus, with hints of honey and stone fruits. Fresh and balanced with a long mineral finish.",
-        "productionTitle": "Production",
-        "production": "Hand-harvested and carefully vinified in small batches (600-700L) to preserve the authentic character of our terroir.",
-        "vintagesTitle": "Available Vintages"
-    },
-    "contact": {
-        "subtitle": "Contact Us",
-        "title": "Visit Our Family Cellar",
-        "role": "Winemaker & Owner",
-        "phoneLabel": "Phone",
-        "addressLabel": "Address",
-        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
-        "languagesLabel": "Languages",
-        "visitTitle": "Planning Your Visit",
-        "visitInfo": "We welcome visitors for personalized wine tastings and cellar tours. Please contact us in advance to schedule your visit."
-    },
-    "feature": {
-        "subtitle": "Our Philosophy",
-        "title": "The Essence of Malé Vinice",
-        "heritage": {
-            "title": "Heritage",
-            "description": "Four generations of family winemaking tradition since 1920, preserving our ancestors' knowledge and passion."
-        },
-        "terroir": {
-            "title": "Terroir",
-            "description": "Our vineyards benefit from the unique microclimate and soil of the Királyhelmec wine region."
-        },
-        "craft": {
-            "title": "Craft",
-            "description": "Specializing in Italian Riesling, producing limited quantities (600-700L) with meticulous attention to detail."
-        }
-    },
-    "timeline": {
-        "subtitle": "Our Journey",
-        "title": "A Century of Winemaking",
-        "events": {
-            "1920": {
-                "title": "The Foundation",
-                "description": "Our great-grandfather established the first family vineyard in Kisgéres (Malý Horeš)."
-            },
-            "1950": {
-                "title": "Second Generation",
-                "description": "Expanding the vineyards and focusing on traditional winemaking methods."
-            },
-            "1980": {
-                "title": "Italian Riesling Focus",
-                "description": "The third generation specialized in Italian Riesling production."
-            },
-            "2020": {
-                "title": "Modern Era",
-                "description": "Fourth generation continues the legacy while embracing modern winemaking techniques."
-            }
-        }
-    },
-    "footer": {
-        "contact": {
-          "title": "Contact",
-          "address": "Malý Horeš 123\n076 52 Slovakia"
-        },
-        "quickLinks": {
-          "title": "Quick Links",
-          "home": "Home",
-          "heritage": "Heritage",
-          "wines": "Our Wines",
-          "visit": "Visit Us"
-        },
-        "bottomBar": {
-          "rights": "© {year} Male Vinice. All rights reserved.",
-          "madeBy": "Made by"
-        }
+    "craft": {
+      "title": "Craft",
+      "description": "Specializing in Italian Riesling, producing limited quantities (600-700L) with meticulous attention to detail."
+    }
+  },
+  "timeline": {
+    "subtitle": "Our Journey",
+    "title": "A Century of Winemaking",
+    "events": {
+      "1920": {
+        "title": "The Foundation",
+        "description": "Our great-grandfather established the first family vineyard in Kisgéres (Malý Horeš)."
+      },
+      "1950": {
+        "title": "Second Generation",
+        "description": "Expanding the vineyards and focusing on traditional winemaking methods."
+      },
+      "1980": {
+        "title": "Italian Riesling Focus",
+        "description": "The third generation specialized in Italian Riesling production."
+      },
+      "2020": {
+        "title": "Modern Era",
+        "description": "Fourth generation continues the legacy while embracing modern winemaking techniques."
       }
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact",
+      "address": "Malý Horeš 123\n076 52 Slovakia"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "heritage": "Heritage",
+      "wines": "Our Wines",
+      "visit": "Visit Us"
+    },
+    "bottomBar": {
+      "rights": "© {year} Male Vinice. All rights reserved.",
+      "madeBy": "Made by"
+    }
+  },
+    "winemaker": {
+      "subtitle": "Meet the Winemaker",
+      "title": "Family Tradition & Expertise",
+      "description1": "As a fourth-generation winemaker, Tibor Filep continues the family's century-old winemaking tradition in Malý Horeš. His deep connection to the land and vines began in his childhood, learning from his father and grandfather.",
+      "description2": "Today, he combines traditional winemaking methods with modern expertise, focusing on producing exceptional Italian Riesling that truly represents our terroir.",
+      "description3": "Beyond winemaking, Tibor is dedicated to preserving and sharing our region's rich wine culture, welcoming visitors to experience our family's heritage firsthand.",
+      "experienceTitle": "Experience",
+      "experience": "Four generations of winemaking expertise since 1920",
+      "specialtyTitle": "Specialty",
+      "specialty": "Italian Riesling with a focus on traditional methods"
+    }
 }

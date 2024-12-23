@@ -24,7 +24,7 @@ export function Feature() {
   ]
 
   return (
-    <section className="py-24 bg-[#f3f3e4]">
+    <section className="py-24 bg-[#f3f3e4]" id="philosophy">
       <div className="container mx-auto px-4">
         <div className="max-w-6xl mx-auto">
           {/* Section Header */}

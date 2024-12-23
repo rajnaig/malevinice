@@ -1,96 +1,108 @@
 {
-    "nav": {
-        "home": "Inicio",
-        "wines": "Nuestros Vinos",
-        "visit": "Visítanos",
-        "about": "Sobre Nosotros",
-        "contact": "Contacto",
-        "shop": "Tienda",
-        "heritage": "Herencia"
+  "nav": {
+    "home": "Inicio",
+    "wines": "Nuestros Vinos",
+    "visit": "Visítanos",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto",
+    "shop": "Tienda",
+    "philosophy": "Filosofía",
+    "heritage": "Herencia"
+  },
+  "hero": {
+    "cellarAlt": "Bodega Male Vinice",
+    "established": "Est. 1920",
+    "headline": "Excelencia en Cada Botella",
+    "location": "Kisgéres · Malý Horeš",
+    "description": "Experimente nuestro legado vinícola, donde la tradición se encuentra con la innovación en cada botella de nuestro exquisito Riesling Italiano.",
+    "cta": "Descubra Nuestros Vinos"
+  },
+  "wine": {
+    "subtitle": "Nuestro Vino",
+    "title": "Riesling Italiano",
+    "imageAlt": "Male Vinice Riesling Italiano",
+    "tagline": "Elaborado con Pasión",
+    "tastingNotesTitle": "Notas de Cata",
+    "tastingNotes": "Elegantes aromas de flores blancas y cítricos, con notas de miel y frutas de hueso. Fresco y equilibrado con un largo final mineral.",
+    "productionTitle": "Producción",
+    "production": "Cosechado a mano y vinificado cuidadosamente en lotes pequeños (600-700L) para preservar el carácter auténtico de nuestro terroir.",
+    "vintagesTitle": "Cosechas Disponibles"
+  },
+  "contact": {
+    "subtitle": "Contáctenos",
+    "title": "Visite Nuestra Bodega Familiar",
+    "role": "Enólogo & Propietario",
+    "phoneLabel": "Teléfono",
+    "addressLabel": "Dirección",
+    "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+    "languagesLabel": "Idiomas",
+    "visitTitle": "Planifique Su Visita",
+    "visitInfo": "Recibimos visitantes para catas de vino personalizadas y visitas a la bodega. Por favor, contáctenos con anticipación para programar su visita."
+  },
+  "feature": {
+    "subtitle": "Nuestra Filosofía",
+    "title": "La Esencia de Malé Vinice",
+    "heritage": {
+      "title": "Herencia",
+      "description": "Cuatro generaciones de tradición familiar vitivinícola desde 1920, preservando el conocimiento y la pasión de nuestros ancestros."
     },
-    "hero": {
-        "cellarAlt": "Bodega Male Vinice",
-        "established": "Est. 1920",
-        "headline": "Excelencia en Cada Botella",
-        "location": "Kisgéres · Malý Horeš",
-        "description": "Experimente nuestro legado vinícola, donde la tradición se encuentra con la innovación en cada botella de nuestro exquisito Riesling Italiano.",
-        "cta": "Descubra Nuestros Vinos"
+    "terroir": {
+      "title": "Terroir",
+      "description": "Nuestros viñedos se benefician del microclima único y el suelo de la región vinícola de Királyhelmec."
     },
-    "wine": {
-        "subtitle": "Nuestro Vino",
-        "title": "Riesling Italiano",
-        "imageAlt": "Male Vinice Riesling Italiano",
-        "tagline": "Elaborado con Pasión",
-        "tastingNotesTitle": "Notas de Cata",
-        "tastingNotes": "Elegantes aromas de flores blancas y cítricos, con notas de miel y frutas de hueso. Fresco y equilibrado con un largo final mineral.",
-        "productionTitle": "Producción",
-        "production": "Cosechado a mano y vinificado cuidadosamente en lotes pequeños (600-700L) para preservar el carácter auténtico de nuestro terroir.",
-        "vintagesTitle": "Cosechas Disponibles"
-    },
-    "contact": {
-        "subtitle": "Contáctenos",
-        "title": "Visite Nuestra Bodega Familiar",
-        "role": "Enólogo & Propietario",
-        "phoneLabel": "Teléfono",
-        "addressLabel": "Dirección",
-        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
-        "languagesLabel": "Idiomas",
-        "visitTitle": "Planifique Su Visita",
-        "visitInfo": "Recibimos visitantes para catas de vino personalizadas y visitas a la bodega. Por favor, contáctenos con anticipación para programar su visita."
-    },
-    "feature": {
-        "subtitle": "Nuestra Filosofía",
-        "title": "La Esencia de Malé Vinice",
-        "heritage": {
-            "title": "Herencia",
-            "description": "Cuatro generaciones de tradición familiar vitivinícola desde 1920, preservando el conocimiento y la pasión de nuestros ancestros."
-        },
-        "terroir": {
-            "title": "Terroir",
-            "description": "Nuestros viñedos se benefician del microclima único y el suelo de la región vinícola de Királyhelmec."
-        },
-        "craft": {
-            "title": "Artesanía",
-            "description": "Especializados en Riesling Italiano, produciendo cantidades limitadas (600-700L) con meticulosa atención al detalle."
-        }
-    },
-    "timeline": {
-        "subtitle": "Nuestro Viaje",
-        "title": "Un Siglo de Vinicultura",
-        "events": {
-            "1920": {
-                "title": "La Fundación",
-                "description": "Nuestro bisabuelo estableció el primer viñedo familiar en Kisgéres (Malý Horeš)."
-            },
-            "1950": {
-                "title": "Segunda Generación",
-                "description": "Expansión de los viñedos y enfoque en métodos tradicionales de vinificación."
-            },
-            "1980": {
-                "title": "Enfoque en Riesling Italiano",
-                "description": "La tercera generación se especializó en la producción de Riesling Italiano."
-            },
-            "2020": {
-                "title": "Era Moderna",
-                "description": "La cuarta generación continúa el legado mientras adopta técnicas modernas de vinificación."
-            }
-        }
-    },
-    "footer": {
-        "contact": {
-          "title": "Contacto",
-          "address": "Malý Horeš 123\n076 52 Eslovaquia"
-        },
-        "quickLinks": {
-          "title": "Enlaces Rápidos",
-          "home": "Inicio",
-          "heritage": "Herencia",
-          "wines": "Nuestros Vinos",
-          "visit": "Visítanos"
-        },
-        "bottomBar": {
-          "rights": "© {year} Male Vinice. Todos los derechos reservados.",
-          "madeBy": "Hecho por"
-        }
+    "craft": {
+      "title": "Artesanía",
+      "description": "Especializados en Riesling Italiano, produciendo cantidades limitadas (600-700L) con meticulosa atención al detalle."
     }
+  },
+  "timeline": {
+    "subtitle": "Nuestro Viaje",
+    "title": "Un Siglo de Vinicultura",
+    "events": {
+      "1920": {
+        "title": "La Fundación",
+        "description": "Nuestro bisabuelo estableció el primer viñedo familiar en Kisgéres (Malý Horeš)."
+      },
+      "1950": {
+        "title": "Segunda Generación",
+        "description": "Expansión de los viñedos y enfoque en métodos tradicionales de vinificación."
+      },
+      "1980": {
+        "title": "Enfoque en Riesling Italiano",
+        "description": "La tercera generación se especializó en la producción de Riesling Italiano."
+      },
+      "2020": {
+        "title": "Era Moderna",
+        "description": "La cuarta generación continúa el legado mientras adopta técnicas modernas de vinificación."
+      }
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contacto",
+      "address": "Malý Horeš 123\n076 52 Eslovaquia"
+    },
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "home": "Inicio",
+      "heritage": "Herencia",
+      "wines": "Nuestros Vinos",
+      "visit": "Visítanos"
+    },
+    "bottomBar": {
+      "rights": "© {year} Male Vinice. Todos los derechos reservados.",
+      "madeBy": "Hecho por"
+    }
+  },
+  "winemaker": {
+    "subtitle": "Conoce al Vinicultor",
+    "title": "Tradición Familiar & Experiencia",
+    "description1": "Como vinicultor de cuarta generación, Tibor Filep continúa la tradición centenaria de vinificación familiar en Malý Horeš. Su profunda conexión con la tierra y las viñas comenzó en su infancia, aprendiendo de su padre y abuelo.",
+    "description2": "Hoy, combina métodos tradicionales de vinificación con experiencia moderna, centrándose en producir un excepcional Riesling Italiano que representa verdaderamente nuestro terroir.",
+    "description3": "Más allá de la vinificación, Tibor está dedicado a preservar y compartir la rica cultura vinícola de nuestra región, dando la bienvenida a visitantes para experimentar de primera mano nuestra herencia familiar.",
+    "experienceTitle": "Experiencia",
+    "experience": "Cuatro generaciones de experiencia en vinificación desde 1920",
+    "specialtyTitle": "Especialidad",
+    "specialty": "Riesling Italiano con enfoque en métodos tradicionales"
+  }
 }

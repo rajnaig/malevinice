@@ -11,7 +11,7 @@ const WineShowcase = () => {
  const nextVintage = 2024;
 
  return (
-   <section className="relative py-24 overflow-hidden bg-[rgb(var(--color-cream))]">
+   <section id="wine" className="relative py-24 overflow-hidden bg-[rgb(var(--color-cream))]">
      <div className="container mx-auto px-4">
        <div className="text-center mb-16">
          <span className="text-[rgb(var(--color-sage))] text-sm font-medium tracking-wider uppercase">

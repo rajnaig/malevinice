@@ -1,96 +1,108 @@
 {
-    "nav": {
-        "home": "Home",
-        "wines": "Onze Wijnen",
-        "visit": "Bezoek Ons",
-        "about": "Over Ons",
-        "contact": "Contact",
-        "shop": "Winkel",
-        "heritage": "Erfgoed"
+  "nav": {
+    "home": "Home",
+    "wines": "Onze Wijnen",
+    "visit": "Bezoek Ons",
+    "about": "Over Ons",
+    "contact": "Contact",
+    "shop": "Winkel",
+    "philosophy": "Filosofie",
+    "heritage": "Erfgoed"
+  },
+  "hero": {
+    "cellarAlt": "Male Vinice wijnkelder",
+    "established": "Opgericht 1920",
+    "headline": "Excellentie in Elke Fles",
+    "location": "Kisgéres · Malý Horeš",
+    "description": "Ervaar ons wijnmakerserfgoed, waar traditie en innovatie samenkomen in elke fles van onze voortreffelijke Italiaanse Riesling.",
+    "cta": "Ontdek Onze Wijnen"
+  },
+  "wine": {
+    "subtitle": "Onze Wijn",
+    "title": "Italiaanse Riesling",
+    "imageAlt": "Male Vinice Italiaanse Riesling",
+    "tagline": "Met Passie Gemaakt",
+    "tastingNotesTitle": "Proefnotities",
+    "tastingNotes": "Elegante aroma's van witte bloemen en citrus, met hints van honing en steenvruchten. Fris en evenwichtig met een lange minerale afdronk.",
+    "productionTitle": "Productie",
+    "production": "Met de hand geoogst en zorgvuldig gevinifieerd in kleine partijen (600-700L) om het authentieke karakter van ons terroir te behouden.",
+    "vintagesTitle": "Beschikbare Jaargangen"
+  },
+  "contact": {
+    "subtitle": "Contact",
+    "title": "Bezoek Onze Familie Wijnkelder",
+    "role": "Wijnmaker & Eigenaar",
+    "phoneLabel": "Telefoon",
+    "addressLabel": "Adres",
+    "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+    "languagesLabel": "Talen",
+    "visitTitle": "Plan Uw Bezoek",
+    "visitInfo": "Wij verwelkomen bezoekers voor persoonlijke wijnproeverijen en kelderrondleidingen. Neem vooraf contact op om uw bezoek te plannen."
+  },
+  "feature": {
+    "subtitle": "Onze Filosofie",
+    "title": "De Essentie van Malé Vinice",
+    "heritage": {
+      "title": "Erfgoed",
+      "description": "Vier generaties familie wijnmakerstraditie sinds 1920, met behoud van de kennis en passie van onze voorouders."
     },
-    "hero": {
-        "cellarAlt": "Male Vinice wijnkelder",
-        "established": "Opgericht 1920",
-        "headline": "Excellentie in Elke Fles",
-        "location": "Kisgéres · Malý Horeš",
-        "description": "Ervaar ons wijnmakerserfgoed, waar traditie en innovatie samenkomen in elke fles van onze voortreffelijke Italiaanse Riesling.",
-        "cta": "Ontdek Onze Wijnen"
+    "terroir": {
+      "title": "Terroir",
+      "description": "Onze wijngaarden profiteren van het unieke microklimaat en de bodem van de Királyhelmec wijnregio."
     },
-    "wine": {
-        "subtitle": "Onze Wijn",
-        "title": "Italiaanse Riesling",
-        "imageAlt": "Male Vinice Italiaanse Riesling",
-        "tagline": "Met Passie Gemaakt",
-        "tastingNotesTitle": "Proefnotities",
-        "tastingNotes": "Elegante aroma's van witte bloemen en citrus, met hints van honing en steenvruchten. Fris en evenwichtig met een lange minerale afdronk.",
-        "productionTitle": "Productie",
-        "production": "Met de hand geoogst en zorgvuldig gevinifieerd in kleine partijen (600-700L) om het authentieke karakter van ons terroir te behouden.",
-        "vintagesTitle": "Beschikbare Jaargangen"
-    },
-    "contact": {
-        "subtitle": "Contact",
-        "title": "Bezoek Onze Familie Wijnkelder",
-        "role": "Wijnmaker & Eigenaar",
-        "phoneLabel": "Telefoon",
-        "addressLabel": "Adres",
-        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
-        "languagesLabel": "Talen",
-        "visitTitle": "Plan Uw Bezoek",
-        "visitInfo": "Wij verwelkomen bezoekers voor persoonlijke wijnproeverijen en kelderrondleidingen. Neem vooraf contact op om uw bezoek te plannen."
-    },
-    "feature": {
-        "subtitle": "Onze Filosofie",
-        "title": "De Essentie van Malé Vinice",
-        "heritage": {
-            "title": "Erfgoed",
-            "description": "Vier generaties familie wijnmakerstraditie sinds 1920, met behoud van de kennis en passie van onze voorouders."
-        },
-        "terroir": {
-            "title": "Terroir",
-            "description": "Onze wijngaarden profiteren van het unieke microklimaat en de bodem van de Királyhelmec wijnregio."
-        },
-        "craft": {
-            "title": "Vakmanschap",
-            "description": "Gespecialiseerd in Italiaanse Riesling, produceren we beperkte hoeveelheden (600-700L) met nauwgezette aandacht voor detail."
-        }
-    },
-    "timeline": {
-        "subtitle": "Onze Reis",
-        "title": "Een Eeuw Wijnmaken",
-        "events": {
-            "1920": {
-                "title": "De Stichting",
-                "description": "Onze overgrootvader stichtte de eerste familie wijngaard in Kisgéres (Malý Horeš)."
-            },
-            "1950": {
-                "title": "Tweede Generatie",
-                "description": "Uitbreiding van de wijngaarden en focus op traditionele wijnbereidingsmethoden."
-            },
-            "1980": {
-                "title": "Italiaanse Riesling Focus",
-                "description": "De derde generatie specialiseerde zich in de productie van Italiaanse Riesling."
-            },
-            "2020": {
-                "title": "Modern Tijdperk",
-                "description": "De vierde generatie zet de erfenis voort en omarmt moderne wijnbereidingstechnieken."
-            }
-        }
-    },
-    "footer": {
-        "contact": {
-          "title": "Contact",
-          "address": "Malý Horeš 123\n076 52 Slowakije"
-        },
-        "quickLinks": {
-          "title": "Snelle Links",
-          "home": "Home",
-          "heritage": "Erfgoed",
-          "wines": "Onze Wijnen",
-          "visit": "Bezoek Ons"
-        },
-        "bottomBar": {
-          "rights": "© {year} Male Vinice. Alle rechten voorbehouden.",
-          "madeBy": "Gemaakt door"
-        }
+    "craft": {
+      "title": "Vakmanschap",
+      "description": "Gespecialiseerd in Italiaanse Riesling, produceren we beperkte hoeveelheden (600-700L) met nauwgezette aandacht voor detail."
     }
+  },
+  "timeline": {
+    "subtitle": "Onze Reis",
+    "title": "Een Eeuw Wijnmaken",
+    "events": {
+      "1920": {
+        "title": "De Stichting",
+        "description": "Onze overgrootvader stichtte de eerste familie wijngaard in Kisgéres (Malý Horeš)."
+      },
+      "1950": {
+        "title": "Tweede Generatie",
+        "description": "Uitbreiding van de wijngaarden en focus op traditionele wijnbereidingsmethoden."
+      },
+      "1980": {
+        "title": "Italiaanse Riesling Focus",
+        "description": "De derde generatie specialiseerde zich in de productie van Italiaanse Riesling."
+      },
+      "2020": {
+        "title": "Modern Tijdperk",
+        "description": "De vierde generatie zet de erfenis voort en omarmt moderne wijnbereidingstechnieken."
+      }
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Contact",
+      "address": "Malý Horeš 123\n076 52 Slowakije"
+    },
+    "quickLinks": {
+      "title": "Snelle Links",
+      "home": "Home",
+      "heritage": "Erfgoed",
+      "wines": "Onze Wijnen",
+      "visit": "Bezoek Ons"
+    },
+    "bottomBar": {
+      "rights": "© {year} Male Vinice. Alle rechten voorbehouden.",
+      "madeBy": "Gemaakt door"
+    }
+  },
+  "winemaker": {
+    "subtitle": "Ontmoet de Wijnmaker",
+    "title": "Familietraditie & Expertise",
+    "description1": "Als vierde generatie wijnmaker zet Tibor Filep de eeuwenoude wijntraditie van de familie voort in Malý Horeš. Zijn diepe verbinding met het land en de wijngaarden begon in zijn kindertijd, lerend van zijn vader en grootvader.",
+    "description2": "Vandaag combineert hij traditionele wijnbereidingsmethoden met moderne expertise, met focus op het produceren van uitzonderlijke Italiaanse Riesling die ons terroir echt vertegenwoordigt.",
+    "description3": "Naast het wijnmaken is Tibor toegewijd aan het behouden en delen van onze rijke wijncultuur, en verwelkomt hij bezoekers om ons familieerfgoed uit eerste hand te ervaren.",
+    "experienceTitle": "Ervaring",
+    "experience": "Vier generaties wijnexpertise sinds 1920",
+    "specialtyTitle": "Specialiteit",
+    "specialty": "Italiaanse Riesling met focus op traditionele methoden"
+  }
 }

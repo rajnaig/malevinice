@@ -1,96 +1,108 @@
 {
-    "nav": {
-        "home": "Domov",
-        "wines": "Naše Vína",
-        "visit": "Navštívte Nás",
-        "about": "O Nás",
-        "contact": "Kontakt",
-        "shop": "E-shop",
-        "heritage": "Dedičstvo"
+  "nav": {
+    "home": "Domov",
+    "wines": "Naše Vína",
+    "visit": "Navštívte Nás",
+    "about": "O Nás",
+    "contact": "Kontakt",
+    "shop": "E-shop",
+    "philosophy": "Filozofia",
+    "heritage": "Dedičstvo"
+  },
+  "hero": {
+    "cellarAlt": "Pivnica Male Vinice",
+    "established": "Zal. 1920",
+    "headline": "Dokonalosť v každej fľaši",
+    "location": "Kisgéres · Malý Horeš",
+    "description": "Zažite naše vinárske dedičstvo, kde sa tradícia spája s inováciou v každej fľaši nášho výnimočného Vlašského rizlingu.",
+    "cta": "Objavte naše vína"
+  },
+  "wine": {
+    "subtitle": "Naše Víno",
+    "title": "Vlašský Rizling",
+    "imageAlt": "Male Vinice Vlašský Rizling",
+    "tagline": "Vyrobené s vášňou",
+    "tastingNotesTitle": "Chuťový profil",
+    "tastingNotes": "Elegantné arómy bielych kvetov a citrusov, s náznakom medu a kôstkového ovocia. Svieže a vyvážené s dlhou minerálnou dochuťou.",
+    "productionTitle": "Výroba",
+    "production": "Ručne zbierané a starostlivo vinifikované v malých dávkach (600-700L) pre zachovanie autentického charakteru nášho terroiru.",
+    "vintagesTitle": "Dostupné ročníky"
+  },
+  "contact": {
+    "subtitle": "Kontaktujte Nás",
+    "title": "Navštívte našu rodinnú pivnicu",
+    "role": "Vinár & Majiteľ",
+    "phoneLabel": "Telefón",
+    "addressLabel": "Adresa",
+    "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+    "languagesLabel": "Jazyky",
+    "visitTitle": "Plánovanie návštevy",
+    "visitInfo": "Radi vás privítame na personalizovaných degustáciách vína a prehliadkach pivnice. Prosím, kontaktujte nás vopred pre dohodnutie termínu návštevy."
+  },
+  "feature": {
+    "subtitle": "Naša filozofia",
+    "title": "Podstata Malé Vinice",
+    "heritage": {
+      "title": "Dedičstvo",
+      "description": "Štyri generácie rodinnej vinárskej tradície od roku 1920, zachovávajúc znalosti a vášeň našich predkov."
     },
-    "hero": {
-        "cellarAlt": "Pivnica Male Vinice",
-        "established": "Zal. 1920",
-        "headline": "Dokonalosť v každej fľaši",
-        "location": "Kisgéres · Malý Horeš",
-        "description": "Zažite naše vinárske dedičstvo, kde sa tradícia spája s inováciou v každej fľaši nášho výnimočného Vlašského rizlingu.",
-        "cta": "Objavte naše vína"
+    "terroir": {
+      "title": "Terroir",
+      "description": "Naše vinice profitujú z jedinečnej mikroklímy a pôdy vinárskeho regiónu Kráľovský Chlmec."
     },
-    "wine": {
-        "subtitle": "Naše Víno",
-        "title": "Vlašský Rizling",
-        "imageAlt": "Male Vinice Vlašský Rizling",
-        "tagline": "Vyrobené s vášňou",
-        "tastingNotesTitle": "Chuťový profil",
-        "tastingNotes": "Elegantné arómy bielych kvetov a citrusov, s náznakom medu a kôstkového ovocia. Svieže a vyvážené s dlhou minerálnou dochuťou.",
-        "productionTitle": "Výroba",
-        "production": "Ručne zbierané a starostlivo vinifikované v malých dávkach (600-700L) pre zachovanie autentického charakteru nášho terroiru.",
-        "vintagesTitle": "Dostupné ročníky"
-    },
-    "contact": {
-        "subtitle": "Kontaktujte Nás",
-        "title": "Navštívte našu rodinnú pivnicu",
-        "role": "Vinár & Majiteľ",
-        "phoneLabel": "Telefón",
-        "addressLabel": "Adresa",
-        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
-        "languagesLabel": "Jazyky",
-        "visitTitle": "Plánovanie návštevy",
-        "visitInfo": "Radi vás privítame na personalizovaných degustáciách vína a prehliadkach pivnice. Prosím, kontaktujte nás vopred pre dohodnutie termínu návštevy."
-    },
-    "feature": {
-        "subtitle": "Naša filozofia",
-        "title": "Podstata Malé Vinice",
-        "heritage": {
-            "title": "Dedičstvo",
-            "description": "Štyri generácie rodinnej vinárskej tradície od roku 1920, zachovávajúc znalosti a vášeň našich predkov."
-        },
-        "terroir": {
-            "title": "Terroir",
-            "description": "Naše vinice profitujú z jedinečnej mikroklímy a pôdy vinárskeho regiónu Kráľovský Chlmec."
-        },
-        "craft": {
-            "title": "Remeslo",
-            "description": "Špecializujeme sa na Vlašský rizling, vyrábame limitované množstvá (600-700L) s dôkladnou pozornosťou na detail."
-        }
-    },
-    "timeline": {
-        "subtitle": "Naša cesta",
-        "title": "Storočie vinárstva",
-        "events": {
-            "1920": {
-                "title": "Založenie",
-                "description": "Náš pradedo založil prvý rodinný vinohrad v Malom Horeši (Kisgéres)."
-            },
-            "1950": {
-                "title": "Druhá generácia",
-                "description": "Rozširovanie vinohradov a zameranie na tradičné metódy výroby vína."
-            },
-            "1980": {
-                "title": "Zameranie na Vlašský rizling",
-                "description": "Tretia generácia sa špecializovala na produkciu Vlašského rizlingu."
-            },
-            "2020": {
-                "title": "Moderná éra",
-                "description": "Štvrtá generácia pokračuje v dedičstve a zároveň využíva moderné vinárske techniky."
-            }
-        }
-    },
-    "footer": {
-        "contact": {
-          "title": "Kontakt",
-          "address": "Malý Horeš 123\n076 52 Slovensko"
-        },
-        "quickLinks": {
-          "title": "Rýchle odkazy",
-          "home": "Domov",
-          "heritage": "Dedičstvo",
-          "wines": "Naše vína",
-          "visit": "Navštívte nás"
-        },
-        "bottomBar": {
-          "rights": "© {year} Male Vinice. Všetky práva vyhradené.",
-          "madeBy": "Vytvoril"
-        }
+    "craft": {
+      "title": "Remeslo",
+      "description": "Špecializujeme sa na Vlašský rizling, vyrábame limitované množstvá (600-700L) s dôkladnou pozornosťou na detail."
+    }
+  },
+  "timeline": {
+    "subtitle": "Naša cesta",
+    "title": "Storočie vinárstva",
+    "events": {
+      "1920": {
+        "title": "Založenie",
+        "description": "Náš pradedo založil prvý rodinný vinohrad v Malom Horeši (Kisgéres)."
+      },
+      "1950": {
+        "title": "Druhá generácia",
+        "description": "Rozširovanie vinohradov a zameranie na tradičné metódy výroby vína."
+      },
+      "1980": {
+        "title": "Zameranie na Vlašský rizling",
+        "description": "Tretia generácia sa špecializovala na produkciu Vlašského rizlingu."
+      },
+      "2020": {
+        "title": "Moderná éra",
+        "description": "Štvrtá generácia pokračuje v dedičstve a zároveň využíva moderné vinárske techniky."
       }
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Kontakt",
+      "address": "Malý Horeš 123\n076 52 Slovensko"
+    },
+    "quickLinks": {
+      "title": "Rýchle odkazy",
+      "home": "Domov",
+      "heritage": "Dedičstvo",
+      "wines": "Naše vína",
+      "visit": "Navštívte nás"
+    },
+    "bottomBar": {
+      "rights": "© {year} Male Vinice. Všetky práva vyhradené.",
+      "madeBy": "Vytvoril"
+    }
+  },
+  "winemaker": {
+    "subtitle": "Spoznajte Vinára",
+    "title": "Rodinná Tradícia & Odbornosť",
+    "description1": "Ako vinár štvrtej generácie, Tibor Filep pokračuje v storočnej rodinnej tradícii výroby vína v Malom Horeši. Jeho hlboké spojenie s pôdou a vinicami sa začalo v detstve, učiac sa od svojho otca a starého otca.",
+    "description2": "Dnes kombinuje tradičné metódy výroby vína s modernou odbornosťou, zameriavajúc sa na produkciu výnimočného Vlašského Rizlingu, ktorý skutočne reprezentuje náš terroir.",
+    "description3": "Okrem výroby vína sa Tibor venuje zachovávaniu a zdieľaniu bohatej vínnej kultúry nášho regiónu, vítajúc návštevníkov, aby z prvej ruky zažili naše rodinné dedičstvo.",
+    "experienceTitle": "Skúsenosti",
+    "experience": "Štyri generácie vinárskej odbornosti od roku 1920",
+    "specialtyTitle": "Špecialita",
+    "specialty": "Vlašský Rizling so zameraním na tradičné metódy"
+  }
 }

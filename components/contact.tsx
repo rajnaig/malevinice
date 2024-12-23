@@ -6,7 +6,7 @@ export function Contact() {
     const t = useTranslations('contact')
 
     return (
-        <section className="py-32">
+        <section id="visit" className="py-32">
             <div className="container mx-auto px-4">
                 <div className="max-w-6xl mx-auto space-y-16">
                     <div className="max-w-xl mx-auto text-center space-y-4">

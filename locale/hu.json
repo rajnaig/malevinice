@@ -1,96 +1,108 @@
 {
-    "nav": {
-        "home": "Főoldal",
-        "wines": "Boraink",
-        "visit": "Látogatás",
-        "about": "Rólunk",
-        "contact": "Kapcsolat",
-        "shop": "Webshop",
-        "heritage": "Örökség"
+  "nav": {
+    "home": "Főoldal",
+    "wines": "Boraink",
+    "visit": "Látogatás",
+    "about": "Rólunk",
+    "contact": "Kapcsolat",
+    "shop": "Webshop",
+    "philosophy": "Filozófiánk",
+    "heritage": "Örökség"
+  },
+  "hero": {
+    "cellarAlt": "Male Vinice pince",
+    "established": "Alapítva 1920",
+    "headline": "Kiválóság minden palackban",
+    "location": "Kisgéres · Malý Horeš",
+    "description": "Ismerje meg borászati örökségünket, ahol a hagyomány és az innováció találkozik minden palack olaszrizlingünkben.",
+    "cta": "Fedezze fel borainkat"
+  },
+  "wine": {
+    "subtitle": "Boraink",
+    "title": "Olaszrizling",
+    "imageAlt": "Male Vinice Olaszrizling",
+    "tagline": "Szenvedéllyel készítve",
+    "tastingNotesTitle": "Kóstolási jegyzet",
+    "tastingNotes": "Elegáns fehér virágok és citrusfélék aromája, méz és csonthéjas gyümölcsök árnyalataival. Friss és kiegyensúlyozott, hosszú ásványos lecsengéssel.",
+    "productionTitle": "Készítés",
+    "production": "Kézzel szüretelt és gondosan kis tételekben (600-700L) vinifikált, hogy megőrizze terroir-unk autentikus karakterét.",
+    "vintagesTitle": "Elérhető évjáratok"
+  },
+  "contact": {
+    "subtitle": "Kapcsolat",
+    "title": "Látogasson el családi pincénkbe",
+    "role": "Borász & Tulajdonos",
+    "phoneLabel": "Telefon",
+    "addressLabel": "Cím",
+    "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+    "languagesLabel": "Nyelvek",
+    "visitTitle": "Látogatás tervezése",
+    "visitInfo": "Szeretettel várjuk látogatóinkat személyre szabott borkóstolókra és pincelátogatásokra. Kérjük, előzetesen egyeztessen időpontot."
+  },
+  "feature": {
+    "subtitle": "Filozófiánk",
+    "title": "A Malé Vinice lényege",
+    "heritage": {
+      "title": "Örökség",
+      "description": "Négy generációs családi borászati hagyomány 1920 óta, őseink tudásának és szenvedélyének megőrzésével."
     },
-    "hero": {
-        "cellarAlt": "Male Vinice pince",
-        "established": "Alapítva 1920",
-        "headline": "Kiválóság minden palackban",
-        "location": "Kisgéres · Malý Horeš",
-        "description": "Ismerje meg borászati örökségünket, ahol a hagyomány és az innováció találkozik minden palack olaszrizlingünkben.",
-        "cta": "Fedezze fel borainkat"
+    "terroir": {
+      "title": "Terroir",
+      "description": "Szőlőültetvényeink a királyhelmeci borvidék egyedülálló mikroklímájának és talajának előnyeit élvezik."
     },
-    "wine": {
-        "subtitle": "Boraink",
-        "title": "Olaszrizling",
-        "imageAlt": "Male Vinice Olaszrizling",
-        "tagline": "Szenvedéllyel készítve",
-        "tastingNotesTitle": "Kóstolási jegyzet",
-        "tastingNotes": "Elegáns fehér virágok és citrusfélék aromája, méz és csonthéjas gyümölcsök árnyalataival. Friss és kiegyensúlyozott, hosszú ásványos lecsengéssel.",
-        "productionTitle": "Készítés",
-        "production": "Kézzel szüretelt és gondosan kis tételekben (600-700L) vinifikált, hogy megőrizze terroir-unk autentikus karakterét.",
-        "vintagesTitle": "Elérhető évjáratok"
-    },
-    "contact": {
-        "subtitle": "Kapcsolat",
-        "title": "Látogasson el családi pincénkbe",
-        "role": "Borász & Tulajdonos",
-        "phoneLabel": "Telefon",
-        "addressLabel": "Cím",
-        "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
-        "languagesLabel": "Nyelvek",
-        "visitTitle": "Látogatás tervezése",
-        "visitInfo": "Szeretettel várjuk látogatóinkat személyre szabott borkóstolókra és pincelátogatásokra. Kérjük, előzetesen egyeztessen időpontot."
-    },
-    "feature": {
-        "subtitle": "Filozófiánk",
-        "title": "A Malé Vinice lényege",
-        "heritage": {
-            "title": "Örökség",
-            "description": "Négy generációs családi borászati hagyomány 1920 óta, őseink tudásának és szenvedélyének megőrzésével."
-        },
-        "terroir": {
-            "title": "Terroir",
-            "description": "Szőlőültetvényeink a királyhelmeci borvidék egyedülálló mikroklímájának és talajának előnyeit élvezik."
-        },
-        "craft": {
-            "title": "Mesterség",
-            "description": "Az olaszrizlingre specializálódva, korlátozott mennyiségben (600-700L) készítjük borainkat, aprólékos odafigyeléssel."
-        }
-    },
-    "timeline": {
-        "subtitle": "Utunk",
-        "title": "Egy évszázad borászat",
-        "events": {
-            "1920": {
-                "title": "Az alapítás",
-                "description": "Dédnagyapánk megalapította az első családi szőlőbirtokot Kisgéresen (Malý Horeš)."
-            },
-            "1950": {
-                "title": "Második generáció",
-                "description": "A szőlőterületek bővítése és a hagyományos borkészítési módszerek előtérbe helyezése."
-            },
-            "1980": {
-                "title": "Olaszrizling fókusz",
-                "description": "A harmadik generáció az olaszrizling termelésére szakosodott."
-            },
-            "2020": {
-                "title": "Modern korszak",
-                "description": "A negyedik generáció folytatja az örökséget, miközben modern borkészítési technikákat alkalmaz."
-            }
-        }
-    },
-    "footer": {
-        "contact": {
-          "title": "Kapcsolat",
-          "address": "Malý Horeš 123\n076 52 Szlovákia"
-        },
-        "quickLinks": {
-          "title": "Gyors linkek",
-          "home": "Főoldal",
-          "heritage": "Örökség",
-          "wines": "Boraink",
-          "visit": "Látogatás"
-        },
-        "bottomBar": {
-          "rights": "© {year} Male Vinice. Minden jog fenntartva.",
-          "madeBy": "Készítette"
-        }
+    "craft": {
+      "title": "Mesterség",
+      "description": "Az olaszrizlingre specializálódva, korlátozott mennyiségben (600-700L) készítjük borainkat, aprólékos odafigyeléssel."
+    }
+  },
+  "timeline": {
+    "subtitle": "Utunk",
+    "title": "Egy évszázad borászat",
+    "events": {
+      "1920": {
+        "title": "Az alapítás",
+        "description": "Dédnagyapánk megalapította az első családi szőlőbirtokot Kisgéresen (Malý Horeš)."
+      },
+      "1950": {
+        "title": "Második generáció",
+        "description": "A szőlőterületek bővítése és a hagyományos borkészítési módszerek előtérbe helyezése."
+      },
+      "1980": {
+        "title": "Olaszrizling fókusz",
+        "description": "A harmadik generáció az olaszrizling termelésére szakosodott."
+      },
+      "2020": {
+        "title": "Modern korszak",
+        "description": "A negyedik generáció folytatja az örökséget, miközben modern borkészítési technikákat alkalmaz."
       }
+    }
+  },
+  "footer": {
+    "contact": {
+      "title": "Kapcsolat",
+      "address": "Malý Horeš 123\n076 52 Szlovákia"
+    },
+    "quickLinks": {
+      "title": "Gyors linkek",
+      "home": "Főoldal",
+      "heritage": "Örökség",
+      "wines": "Boraink",
+      "visit": "Látogatás"
+    },
+    "bottomBar": {
+      "rights": "© {year} Male Vinice. Minden jog fenntartva.",
+      "madeBy": "Készítette"
+    }
+  },
+  "winemaker": {
+    "subtitle": "A Borászunk",
+    "title": "Családi Hagyomány & Szakértelem",
+    "description1": "Negyedik generációs borászként Filep Tibor folytatja a család százéves borkészítési hagyományát Kisgéresben. A szőlővel és a földdel való kapcsolata gyermekkorában kezdődött, apjától és nagyapjától tanulva.",
+    "description2": "Ma a hagyományos borkészítési módszereket modern szaktudással ötvözi, kiemelten az Olaszrizling készítésére összpontosítva, amely hűen tükrözi terroir-unkat.",
+    "description3": "A borkészítésen túl Tibor elkötelezett régiónk gazdag borkultúrájának megőrzése és megosztása mellett, szívesen látja a látogatókat, hogy első kézből tapasztalhassák meg családunk örökségét.",
+    "experienceTitle": "Tapasztalat",
+    "experience": "Négy generációs borászati szakértelem 1920 óta",
+    "specialtyTitle": "Specialitás",
+    "specialty": "Olaszrizling készítése hagyományos módszerekkel"
+  }
 }
