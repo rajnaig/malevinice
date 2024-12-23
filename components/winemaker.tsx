@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 import { useTranslations } from "next-intl";
 
-export function WinemakerProfile() {
+export function Winemaker() {
   const t = useTranslations("winemaker");
 
   return (

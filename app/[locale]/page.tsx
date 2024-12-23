@@ -5,14 +5,15 @@ import { Header } from '@/components/header'
 import { Hero } from '@/components/hero'
 import WineShowcase from '@/components/showcase'
 import { Timeline } from '@/components/timeline'
-import { WinemakerProfile } from '@/components/WinemakerProfile'
+import { Winemaker } from '@/components/winemaker'
+
 
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col">
       <Header />
       <Hero />
-      <WinemakerProfile />
+      <Winemaker />
       <WineShowcase />
       <Contact />
       <Feature />
