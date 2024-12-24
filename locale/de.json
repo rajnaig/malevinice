@@ -1,0 +1,119 @@
+{
+    "nav": {
+      "home": "Startseite",
+      "wines": "Unsere Weine",
+      "visit": "Besuchen Sie uns",
+      "about": "Über uns",
+      "contact": "Kontakt",
+      "shop": "Shop",
+      "philosophy": "Philosophie",
+      "winemaker": "Winzer",
+      "awards": "Auszeichnungen",
+      "heritage": "Erbe"
+    },
+    "hero": {
+      "cellarAlt": "Male Vinice Weinkeller",
+      "established": "Gegründet 1920",
+      "headline": "Exzellenz in jeder Flasche",
+      "location": "Kisgéres · Malý Horeš",
+      "description": "Entdecken Sie unser Weingut-Erbe, wo Tradition und Innovation in jeder Flasche unseres Welschrieslings zusammentreffen.",
+      "cta": "Entdecken Sie unsere Weine"
+    },
+    "wine": {
+      "subtitle": "Unsere Weine",
+      "title": "Welschriesling",
+      "imageAlt": "Male Vinice Welschriesling",
+      "tagline": "Tradition und Qualität",
+      "tastingNotesTitle": "Verkostungsnotizen",
+      "tastingNotes": "Helles strohgelbes, charakteristisches Weißwein.",
+      "productionTitle": "Produktion",
+      "production": "Hergestellt aus sorgfältig ausgewählten Trauben, die bei optimaler Reife geerntet werden. Die Maische wird bei niedrigen Temperaturen unter kontrollierten Bedingungen vergoren, um die Frische und den fruchtigen Charakter der Sorte zu bewahren.",
+      "vintagesTitle": "Verfügbare Jahrgänge"
+    },
+    "contact": {
+      "subtitle": "Kontakt",
+      "title": "Besuchen Sie unseren Familienkeller",
+      "role": "Winzer & Eigentümer",
+      "phoneLabel": "Telefon",
+      "addressLabel": "Adresse",
+      "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+      "languagesLabel": "Sprachen",
+      "visitTitle": "Besuch planen",
+      "visitInfo": "Wir freuen uns, Sie zu persönlichen Weinverkostungen und Kellerführungen begrüßen zu dürfen. Bitte vereinbaren Sie vorab einen Termin."
+    },
+    "feature": {
+      "subtitle": "Unsere Philosophie",
+      "title": "Die Essenz von Male Vinice",
+      "heritage": {
+        "title": "Erbe",
+        "description": "Vier Generationen Familienweintradition seit 1920, die das Wissen und die Leidenschaft unserer Vorfahren bewahrt."
+      },
+      "terroir": {
+        "title": "Terroir",
+        "description": "Unsere Weinberge profitieren vom einzigartigen Mikroklima und den Böden der Weinregion Královský Chlmec."
+      },
+      "craft": {
+        "title": "Handwerk",
+        "description": "Spezialisiert auf Welschriesling, produzieren wir in limitierten Mengen (600-700L) mit akribischer Aufmerksamkeit für Details."
+      }
+    },
+    "timeline": {
+      "subtitle": "Unser Weg",
+      "title": "Ein Jahrhundert Weinbau",
+      "events": {
+        "1920": {
+          "title": "Die Gründung",
+          "description": "Unser Urgroßvater gründete das erste Familienweingut in Malý Horeš."
+        },
+        "1950": {
+          "title": "Zweite Generation",
+          "description": "Erweiterung der Weinberge und Fokus auf traditionelle Weinherstellungsmethoden."
+        },
+        "1980": {
+          "title": "Welschriesling-Fokus",
+          "description": "Die dritte Generation spezialisierte sich auf die Produktion von Welschriesling."
+        },
+        "2020": {
+          "title": "Moderne Ära",
+          "description": "Die vierte Generation führt das Erbe fort und implementiert moderne Weinbautechniken."
+        }
+      }
+    },
+    "footer": {
+      "contact": {
+        "title": "Kontakt",
+        "address": "Malý Horeš 123\n076 52 Slowakei"
+      },
+      "quickLinks": {
+        "title": "Schnelllinks",
+        "home": "Startseite",
+        "heritage": "Erbe",
+        "wines": "Unsere Weine",
+        "visit": "Besuchen",
+        "philosophy": "Philosophie",
+        "awards": "Auszeichnungen",
+        "winemaker": "Winzer"
+      },
+      "bottomBar": {
+        "rights": "© {year} Male Vinice. Alle Rechte vorbehalten.",
+        "madeBy": "Erstellt von"
+      }
+    },
+    "winemaker": {
+      "subtitle": "Unser Winzer",
+      "title": "Familientradition & Expertise",
+      "description1": "Als Winzer der vierten Generation führt Tibor Filep die jahrhundertealte Familientradition der Weinherstellung in Malý Horeš fort. Seine tiefe Verbindung zum Land und den Reben begann in seiner Kindheit, wo er von seinem Vater und Großvater lernte.",
+      "description2": "Heute kombiniert er traditionelle Weinherstellungsmethoden mit moderner Expertise und konzentriert sich auf die Produktion von Welschriesling, der unser Terroir wirklich repräsentiert.",
+      "description3": "Über die Weinherstellung hinaus widmet sich Tibor der Bewahrung und dem Teilen der reichen Weinkultur unserer Region und begrüßt Besucher, die unser Familienerbe aus erster Hand erleben möchten.",
+      "experienceTitle": "Erfahrung",
+      "experience": "Vier Generationen Weinbauexpertise seit 1920",
+      "specialtyTitle": "Spezialität",
+      "specialty": "Welschriesling mit Fokus auf traditionelle Methoden"
+    },
+    "awards": {
+      "subtitle": "Auszeichnungen",
+      "title": "Unsere prämierten Weine",
+      "points": "Punkte",
+      "learnMore": "Zur Wettbewerbsseite"
+    }
+  }

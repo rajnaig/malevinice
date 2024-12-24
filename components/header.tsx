@@ -19,11 +19,12 @@ export function Header() {
 
   const navigation = [
     { name: t('home'), href: '#hero' },
-    { name: t('winemaker'), href: '#winemaker' },
     { name: t('wines'), href: '#wine' },
-    { name: t('visit'), href: '#visit' },
+    { name: t('awards'), href: '#awards' },
+    { name: t('winemaker'), href: '#winemaker' },
     { name: t('philosophy'), href: '#philosophy' },
     { name: t('heritage'), href: '#heritage' },
+    { name: t('visit'), href: '#visit' },
   ]
 
   useEffect(() => {

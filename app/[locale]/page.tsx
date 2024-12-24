@@ -1,3 +1,4 @@
+import { Awards } from '@/components/awards'
 import { Contact } from '@/components/contact'
 import { Feature } from '@/components/feature'
 import { Footer } from '@/components/footer'
@@ -13,11 +14,12 @@ export default function Home() {
     <main className="flex min-h-screen flex-col">
       <Header />
       <Hero />
-      <Winemaker />
       <WineShowcase />
-      <Contact />
+      <Awards />
+      <Winemaker />
       <Feature />
       <Timeline />
+      <Contact />
       <Footer />
     </main>
   )

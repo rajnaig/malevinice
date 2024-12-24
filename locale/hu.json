@@ -8,6 +8,7 @@
     "shop": "Webshop",
     "philosophy": "Filozófiánk",
     "winemaker": "Borászunk",
+    "awards": "Díjak",
     "heritage": "Örökség"
   },
   "hero": {
@@ -22,11 +23,11 @@
     "subtitle": "Boraink",
     "title": "Olaszrizling",
     "imageAlt": "Male Vinice Olaszrizling",
-    "tagline": "Szenvedéllyel készítve",
+    "tagline": "Hagyomány és minőség",
     "tastingNotesTitle": "Kóstolási jegyzet",
-    "tastingNotes": "Elegáns fehér virágok és citrusfélék aromája, méz és csonthéjas gyümölcsök árnyalataival. Friss és kiegyensúlyozott, hosszú ásványos lecsengéssel.",
+    "tastingNotes": "Halvány szalmasárga színű, karakteres fehérbor.",
     "productionTitle": "Készítés",
-    "production": "Kézzel szüretelt és gondosan kis tételekben (600-700L) vinifikált, hogy megőrizze terroir-unk autentikus karakterét.",
+    "production": "Gondosan válogatott, optimális érettségben szüretelt szőlőből készül. A must alacsony hőmérsékleten, kontrollált körülmények között erjedt, hogy megőrizze a fajta frissességét és gyümölcsös karakterét.",
     "vintagesTitle": "Elérhető évjáratok"
   },
   "contact": {
@@ -90,6 +91,7 @@
       "wines": "Boraink",
       "visit": "Látogatás",
       "philosophy": "Filozófiánk",
+      "awards": "Elismerések",
       "winemaker": "A Borász"
     },
     "bottomBar": {
@@ -107,5 +109,11 @@
     "experience": "Négy generációs borászati szakértelem 1920 óta",
     "specialtyTitle": "Specialitás",
     "specialty": "Olaszrizling készítése hagyományos módszerekkel"
+  },
+  "awards": {
+    "subtitle": "Elismerések",
+    "title": "Díjnyertes Boraink",
+    "points": "pont",
+    "learnMore": "A verseny weboldala"
   }
 }

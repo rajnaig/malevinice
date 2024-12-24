@@ -8,6 +8,7 @@
     "shop": "Tienda",
     "philosophy": "Filosofía",
     "winemaker": "Vinicultor",
+    "awards": "Premios",
     "heritage": "Herencia"
   },
   "hero": {
@@ -24,7 +25,7 @@
     "imageAlt": "Male Vinice Riesling Italiano",
     "tagline": "Elaborado con Pasión",
     "tastingNotesTitle": "Notas de Cata",
-    "tastingNotes": "Elegantes aromas de flores blancas y cítricos, con notas de miel y frutas de hueso. Fresco y equilibrado con un largo final mineral.",
+    "tastingNotes": "Vino blanco característico de color amarillo pajizo pálido.",
     "productionTitle": "Producción",
     "production": "Cosechado a mano y vinificado cuidadosamente en lotes pequeños (600-700L) para preservar el carácter auténtico de nuestro terroir.",
     "vintagesTitle": "Cosechas Disponibles"
@@ -90,6 +91,7 @@
       "wines": "Nuestros Vinos",
       "visit": "Visítanos",
       "philosophy": "Filosofía",
+      "awards": "Premios",
       "winemaker": "Vinicultor"
     },
     "bottomBar": {
@@ -107,5 +109,11 @@
     "experience": "Cuatro generaciones de experiencia en vinificación desde 1920",
     "specialtyTitle": "Especialidad",
     "specialty": "Riesling Italiano con enfoque en métodos tradicionales"
+  },
+  "awards": {
+    "subtitle": "Reconocimientos",
+    "title": "Vinos Premiados",
+    "points": "puntos",
+    "learnMore": "Visitar el sitio del concurso"
   }
 }

@@ -35,6 +35,24 @@ const languages = [
     name: 'Dutch', 
     flag: '🇳🇱',
     nativeName: 'Nederlands'
+  },
+  { 
+    code: 'it', 
+    name: 'Italiano', 
+    flag: '🇮🇹',
+    nativeName: 'Italiano'
+  },
+  { 
+    code: 'cs', 
+    name: 'Čeština', 
+    flag: '🇨🇿',
+    nativeName: 'Čeština'
+  },
+  { 
+    code: 'de', 
+    name: 'Deutsch', 
+    flag: '🇩🇪',
+    nativeName: 'Deutsch'
   }
 ];
 

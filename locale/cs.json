@@ -1,0 +1,119 @@
+{
+    "nav": {
+      "home": "Domů",
+      "wines": "Naše vína",
+      "visit": "Navštivte nás",
+      "about": "O nás",
+      "contact": "Kontakt",
+      "shop": "E-shop",
+      "philosophy": "Filozofie",
+      "winemaker": "Vinař",
+      "awards": "Ocenění",
+      "heritage": "Dědictví"
+    },
+    "hero": {
+      "cellarAlt": "Sklep Male Vinice",
+      "established": "Založeno 1920",
+      "headline": "Dokonalost v každé lahvi",
+      "location": "Kisgéres · Malý Horeš",
+      "description": "Poznejte naše vinařské dědictví, kde se tradice setkává s inovací v každé lahvi našeho Vlašského Ryzlinku.",
+      "cta": "Objevte naše vína"
+    },
+    "wine": {
+      "subtitle": "Naše vína",
+      "title": "Vlašský Ryzlink",
+      "imageAlt": "Male Vinice Vlašský Ryzlink",
+      "tagline": "Tradice a kvalita",
+      "tastingNotesTitle": "Degustační poznámky",
+      "tastingNotes": "Světle slámově žluté charakteristické bílé víno.",
+      "productionTitle": "Výroba",
+      "production": "Vyrobeno z pečlivě vybraných hroznů sklizených v optimální zralosti. Mošt kvasil při nízké teplotě za kontrolovaných podmínek, aby si zachoval svěžest a ovocný charakter odrůdy.",
+      "vintagesTitle": "Dostupné ročníky"
+    },
+    "contact": {
+      "subtitle": "Kontakt",
+      "title": "Navštivte náš rodinný sklep",
+      "role": "Vinař & Majitel",
+      "phoneLabel": "Telefon",
+      "addressLabel": "Adresa",
+      "wineryName": "Vínny dvor - Malý Horeš / Borudvar Kisgéres",
+      "languagesLabel": "Jazyky",
+      "visitTitle": "Plánování návštěvy",
+      "visitInfo": "Rádi vás přivítáme na osobních degustacích a prohlídkách sklepa. Prosím, domluvte si termín předem."
+    },
+    "feature": {
+      "subtitle": "Naše filozofie",
+      "title": "Podstata Male Vinice",
+      "heritage": {
+        "title": "Dědictví",
+        "description": "Čtyři generace rodinné vinařské tradice od roku 1920, zachovávající znalosti a vášeň našich předků."
+      },
+      "terroir": {
+        "title": "Terroir",
+        "description": "Naše vinice těží z jedinečného mikroklimatu a půdy vinařské oblasti Královský Chlmec."
+      },
+      "craft": {
+        "title": "Řemeslo",
+        "description": "Specializujeme se na Vlašský Ryzlink, vyrábíme v limitovaném množství (600-700L) s důkladnou pozorností k detailům."
+      }
+    },
+    "timeline": {
+      "subtitle": "Naše cesta",
+      "title": "Století vinařství",
+      "events": {
+        "1920": {
+          "title": "Založení",
+          "description": "Náš pradědeček založil první rodinné vinařství v Malém Horeši."
+        },
+        "1950": {
+          "title": "Druhá generace",
+          "description": "Rozšíření vinic a zaměření na tradiční metody výroby vína."
+        },
+        "1980": {
+          "title": "Zaměření na Vlašský Ryzlink",
+          "description": "Třetí generace se specializovala na výrobu Vlašského Ryzlinku."
+        },
+        "2020": {
+          "title": "Moderní éra",
+          "description": "Čtvrtá generace pokračuje v dědictví a implementuje moderní vinařské techniky."
+        }
+      }
+    },
+    "footer": {
+      "contact": {
+        "title": "Kontakt",
+        "address": "Malý Horeš 123\n076 52 Slovensko"
+      },
+      "quickLinks": {
+        "title": "Rychlé odkazy",
+        "home": "Domů",
+        "heritage": "Dědictví",
+        "wines": "Naše vína",
+        "visit": "Návštěva",
+        "philosophy": "Filozofie",
+        "awards": "Ocenění",
+        "winemaker": "Vinař"
+      },
+      "bottomBar": {
+        "rights": "© {year} Male Vinice. Všechna práva vyhrazena.",
+        "madeBy": "Vytvořil"
+      }
+    },
+    "winemaker": {
+      "subtitle": "Náš vinař",
+      "title": "Rodinná tradice & Odbornost",
+      "description1": "Jako vinař čtvrté generace pokračuje Tibor Filep v stoleté rodinné tradici výroby vína v Malém Horeši. Jeho hluboké spojení s půdou a révou začalo v dětství, učením od otce a dědy.",
+      "description2": "Dnes kombinuje tradiční metody výroby vína s moderními znalostmi, zaměřuje se na výrobu Vlašského Ryzlinku, který skutečně reprezentuje náš terroir.",
+      "description3": "Kromě vinařství se Tibor věnuje zachování a sdílení bohaté vinařské kultury našeho regionu, vítá návštěvníky, aby zažili naše rodinné dědictví na vlastní kůži.",
+      "experienceTitle": "Zkušenosti",
+      "experience": "Čtyři generace vinařské odbornosti od roku 1920",
+      "specialtyTitle": "Specialita",
+      "specialty": "Vlašský Ryzlink s důrazem na tradiční metody"
+    },
+    "awards": {
+      "subtitle": "Ocenění",
+      "title": "Naše oceněná vína",
+      "points": "bodů",
+      "learnMore": "Navštívit stránku soutěže"
+    }
+  }

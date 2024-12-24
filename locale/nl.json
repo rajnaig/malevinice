@@ -8,6 +8,7 @@
     "shop": "Winkel",
     "philosophy": "Filosofie",
     "winemaker": "Wijnmaker",
+    "awards": "Prijzen",
     "heritage": "Erfgoed"
   },
   "hero": {
@@ -24,7 +25,7 @@
     "imageAlt": "Male Vinice Italiaanse Riesling",
     "tagline": "Met Passie Gemaakt",
     "tastingNotesTitle": "Proefnotities",
-    "tastingNotes": "Elegante aroma's van witte bloemen en citrus, met hints van honing en steenvruchten. Fris en evenwichtig met een lange minerale afdronk.",
+    "tastingNotes": "Licht strogeel gekleurde, karakteristieke witte wijn.",
     "productionTitle": "Productie",
     "production": "Met de hand geoogst en zorgvuldig gevinifieerd in kleine partijen (600-700L) om het authentieke karakter van ons terroir te behouden.",
     "vintagesTitle": "Beschikbare Jaargangen"
@@ -90,6 +91,7 @@
       "wines": "Onze Wijnen",
       "visit": "Bezoek Ons",
       "philosophy": "Filosofie",
+      "awards": "Prijzen",
       "winemaker": "Wijnmaker"
     },
     "bottomBar": {
@@ -107,5 +109,11 @@
     "experience": "Vier generaties wijnexpertise sinds 1920",
     "specialtyTitle": "Specialiteit",
     "specialty": "Italiaanse Riesling met focus op traditionele methoden"
+  },
+  "awards": {
+    "subtitle": "Erkenningen",
+    "title": "Bekroonde Wijnen",
+    "points": "punten",
+    "learnMore": "Bezoek wedstrijdwebsite"
   }
 }

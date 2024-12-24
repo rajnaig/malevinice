@@ -8,6 +8,7 @@
     "shop": "E-shop",
     "philosophy": "Filozofia",
     "winemaker": "Vinár",
+    "awards": "Ocenenia",
     "heritage": "Dedičstvo"
   },
   "hero": {
@@ -24,7 +25,7 @@
     "imageAlt": "Male Vinice Vlašský Rizling",
     "tagline": "Vyrobené s vášňou",
     "tastingNotesTitle": "Chuťový profil",
-    "tastingNotes": "Elegantné arómy bielych kvetov a citrusov, s náznakom medu a kôstkového ovocia. Svieže a vyvážené s dlhou minerálnou dochuťou.",
+    "tastingNotes": "Svetlé slamovo žlté charakteristické biele víno.",
     "productionTitle": "Výroba",
     "production": "Ručne zbierané a starostlivo vinifikované v malých dávkach (600-700L) pre zachovanie autentického charakteru nášho terroiru.",
     "vintagesTitle": "Dostupné ročníky"
@@ -90,6 +91,7 @@
       "wines": "Naše Vína",
       "visit": "Navštívte Nás",
       "philosophy": "Filozofia",
+      "awards": "Ocenenia",
       "winemaker": "Vinár"
     },
     "bottomBar": {
@@ -107,5 +109,11 @@
     "experience": "Štyri generácie vinárskej odbornosti od roku 1920",
     "specialtyTitle": "Špecialita",
     "specialty": "Vlašský Rizling so zameraním na tradičné metódy"
+  },
+  "awards": {
+    "subtitle": "Ocenenia",
+    "title": "Ocenené Vína",
+    "points": "bodov",
+    "learnMore": "Navštíviť stránku súťaže"
   }
 }

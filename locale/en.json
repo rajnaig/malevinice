@@ -8,6 +8,7 @@
     "shop": "Shop",
     "philosophy": "Philosophy",
     "winemaker": "Winemaker",
+    "awards": "Awards",
     "heritage": "Heritage"
   },
   "hero": {
@@ -90,6 +91,7 @@
       "wines": "Our Wines",
       "visit": "Visit Us",
       "philosophy": "Philosophy",
+      "awards": "Awards",
       "winemaker": "Winemaker"
     },
     "bottomBar": {
@@ -97,15 +99,21 @@
       "madeBy": "Made by"
     }
   },
-    "winemaker": {
-      "subtitle": "Meet the Winemaker",
-      "title": "Family Tradition & Expertise",
-      "description1": "As a fourth-generation winemaker, Tibor Filep continues the family's century-old winemaking tradition in Malý Horeš. His deep connection to the land and vines began in his childhood, learning from his father and grandfather.",
-      "description2": "Today, he combines traditional winemaking methods with modern expertise, focusing on producing exceptional Italian Riesling that truly represents our terroir.",
-      "description3": "Beyond winemaking, Tibor is dedicated to preserving and sharing our region's rich wine culture, welcoming visitors to experience our family's heritage firsthand.",
-      "experienceTitle": "Experience",
-      "experience": "Four generations of winemaking expertise since 1920",
-      "specialtyTitle": "Specialty",
-      "specialty": "Italian Riesling with a focus on traditional methods"
-    }
+  "winemaker": {
+    "subtitle": "Meet the Winemaker",
+    "title": "Family Tradition & Expertise",
+    "description1": "As a fourth-generation winemaker, Tibor Filep continues the family's century-old winemaking tradition in Malý Horeš. His deep connection to the land and vines began in his childhood, learning from his father and grandfather.",
+    "description2": "Today, he combines traditional winemaking methods with modern expertise, focusing on producing exceptional Italian Riesling that truly represents our terroir.",
+    "description3": "Beyond winemaking, Tibor is dedicated to preserving and sharing our region's rich wine culture, welcoming visitors to experience our family's heritage firsthand.",
+    "experienceTitle": "Experience",
+    "experience": "Four generations of winemaking expertise since 1920",
+    "specialtyTitle": "Specialty",
+    "specialty": "Italian Riesling with a focus on traditional methods"
+  },
+  "awards": {
+    "subtitle": "Recognition",
+    "title": "Award-Winning Wines",
+    "points": "points",
+    "learnMore": "Visit competition website"
+  }
 }
