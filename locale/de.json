@@ -9,7 +9,9 @@
       "philosophy": "Philosophie",
       "winemaker": "Winzer",
       "awards": "Auszeichnungen",
-      "heritage": "Erbe"
+      "heritage": "Erbe",
+      "gallery": "Galerie",
+      "partner": "Partner"
     },
     "hero": {
       "cellarAlt": "Male Vinice Weinkeller",
@@ -92,7 +94,9 @@
         "visit": "Besuchen",
         "philosophy": "Philosophie",
         "awards": "Auszeichnungen",
-        "winemaker": "Winzer"
+        "winemaker": "Winzer",
+        "gallery": "Galerie",
+        "partner": "Partner"
       },
       "bottomBar": {
         "rights": "© {year} Male Vinice. Alle Rechte vorbehalten.",
@@ -115,5 +119,15 @@
       "title": "Unsere prämierten Weine",
       "points": "Punkte",
       "learnMore": "Zur Wettbewerbsseite"
+    },
+    "gallery": {
+      "subtitle": "Unser Weinkeller",
+      "title": "Der Weinherstellungsprozess"
+    },
+    "partner": {
+      "subtitle": "Unser Partner",
+      "title": "Qualitätsflaschen für Wein",
+      "description": "Lankwitzer Premium Coatings, führender Hersteller hochwertiger Flaschenbeschichtungen, liefert die eleganten Weinflaschen für unseren Welschriesling.",
+      "visitWebsite": "Lankwitzer besuchen"
     }
   }

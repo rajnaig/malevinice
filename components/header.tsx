@@ -20,12 +20,14 @@ export function Header() {
   const navigation = [
     { name: t('home'), href: '#hero' },
     { name: t('wines'), href: '#wine' },
+    { name: t('gallery'), href: '#gallery' },
+    { name: t('partner'), href: '#partner' },
     { name: t('awards'), href: '#awards' },
     { name: t('winemaker'), href: '#winemaker' },
     { name: t('philosophy'), href: '#philosophy' },
     { name: t('heritage'), href: '#heritage' },
-    { name: t('visit'), href: '#visit' },
-  ]
+    { name: t('visit'), href: '#visit' }
+ ];
 
   useEffect(() => {
     const handleScroll = () => {

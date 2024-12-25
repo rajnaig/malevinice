@@ -9,7 +9,9 @@
     "philosophy": "Philosophy",
     "winemaker": "Winemaker",
     "awards": "Awards",
-    "heritage": "Heritage"
+    "heritage": "Heritage",
+    "gallery": "Gallery",
+    "partner": "Partner"
   },
   "hero": {
     "cellarAlt": "Male Vinice cellar",
@@ -25,7 +27,8 @@
     "imageAlt": "Male Vinice Italian Riesling",
     "tagline": "Crafted with Passion",
     "tastingNotesTitle": "Tasting Notes",
-    "tastingNotes": "Pale straw yellow colored, distinctive white wine.",    "productionTitle": "Production",
+    "tastingNotes": "Pale straw yellow colored, distinctive white wine.",
+    "productionTitle": "Production",
     "production": "Hand-harvested and carefully vinified in small batches (600-700L) to preserve the authentic character of our terroir.",
     "vintagesTitle": "Available Vintages"
   },
@@ -91,7 +94,9 @@
       "visit": "Visit Us",
       "philosophy": "Philosophy",
       "awards": "Awards",
-      "winemaker": "Winemaker"
+      "winemaker": "Winemaker",
+      "gallery": "Gallery",
+      "partner": "Partner"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. All rights reserved.",
@@ -114,5 +119,15 @@
     "title": "Award-Winning Wines",
     "points": "points",
     "learnMore": "Visit competition website"
-  }
+  },
+  "gallery": {
+    "subtitle": "Our Cellar",
+    "title": "Wine Making Process"
+  },
+    "partner": {
+      "subtitle": "Our Partner",
+      "title": "Quality Wine Bottles",
+      "description": "Lankwitzer Premium Coatings, a leading manufacturer of high-quality bottle coatings, supplies the elegant wine bottles for our Rizling vlašský.",
+      "visitWebsite": "Visit Lankwitzer"
+    }
 }

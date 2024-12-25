@@ -9,7 +9,9 @@
       "philosophy": "Filozofie",
       "winemaker": "Vinař",
       "awards": "Ocenění",
-      "heritage": "Dědictví"
+      "heritage": "Dědictví",
+      "gallery": "Galerie",
+      "partner": "Partner"
     },
     "hero": {
       "cellarAlt": "Sklep Male Vinice",
@@ -92,7 +94,9 @@
         "visit": "Návštěva",
         "philosophy": "Filozofie",
         "awards": "Ocenění",
-        "winemaker": "Vinař"
+        "winemaker": "Vinař",
+        "gallery": "Galerie",
+        "partner": "Partner"
       },
       "bottomBar": {
         "rights": "© {year} Male Vinice. Všechna práva vyhrazena.",
@@ -115,5 +119,15 @@
       "title": "Naše oceněná vína",
       "points": "bodů",
       "learnMore": "Navštívit stránku soutěže"
+    },
+    "gallery": {
+      "subtitle": "Náš Sklep",
+      "title": "Proces Výroby Vína"
+    },
+    "partner": {
+      "subtitle": "Náš Partner",
+      "title": "Kvalitní Vinné Lahve",
+      "description": "Lankwitzer Premium Coatings, přední výrobce vysoce kvalitních nátěrů na lahve, dodává elegantní vinné lahve pro náš Vlašský Ryzlink.",
+      "visitWebsite": "Navštívit Lankwitzer"
     }
   }

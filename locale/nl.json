@@ -9,7 +9,9 @@
     "philosophy": "Filosofie",
     "winemaker": "Wijnmaker",
     "awards": "Prijzen",
-    "heritage": "Erfgoed"
+    "heritage": "Erfgoed",
+    "gallery": "Galerij",
+    "partner": "Partner"
   },
   "hero": {
     "cellarAlt": "Male Vinice wijnkelder",
@@ -92,7 +94,9 @@
       "visit": "Bezoek Ons",
       "philosophy": "Filosofie",
       "awards": "Prijzen",
-      "winemaker": "Wijnmaker"
+      "winemaker": "Wijnmaker",
+      "gallery": "Galerij",
+      "partner": "Partner"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Alle rechten voorbehouden.",
@@ -115,5 +119,15 @@
     "title": "Bekroonde Wijnen",
     "points": "punten",
     "learnMore": "Bezoek wedstrijdwebsite"
+  },
+  "gallery": {
+    "subtitle": "Onze Wijnkelder",
+    "title": "Het Wijnmaakproces"
+  },
+  "partner": {
+    "subtitle": "Onze Partner",
+    "title": "Kwaliteitsflessen",
+    "description": "Lankwitzer Premium Coatings, toonaangevend fabrikant van hoogwaardige flescoatings, levert de elegante wijnflessen voor onze Welschriesling.",
+    "visitWebsite": "Bezoek Lankwitzer"
   }
 }

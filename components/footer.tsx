@@ -1,6 +1,6 @@
 'use client'
 import Image from 'next/image'
-import { Mail, MapPin, Phone, Home, Users, Book, History, User, Grape, Trophy } from 'lucide-react'
+import { Mail, MapPin, Phone, Home, Users, Book, History, User, Grape, Trophy, Handshake, Images } from 'lucide-react'
 import { useTranslations } from 'next-intl'
 
 export function Footer() {
@@ -10,12 +10,14 @@ export function Footer() {
   const navigation = [
     { name: t('quickLinks.home'), href: '#hero', icon: <Home className="w-4 h-4" /> },
     { name: t('quickLinks.wines'), href: '#wine', icon: <Grape className="w-4 h-4" /> },
+    { name: t('quickLinks.gallery'), href: '#gallery', icon: <Images  className="w-4 h-4" /> },
+    { name: t('quickLinks.partner'), href: '#partner', icon: <Handshake className="w-4 h-4" /> },
     { name: t('quickLinks.awards'), href: '#awards', icon: <Trophy className="w-4 h-4" /> },
     { name: t('quickLinks.winemaker'), href: '#winemaker', icon: <User className="w-4 h-4" /> },
     { name: t('quickLinks.philosophy'), href: '#philosophy', icon: <Book className="w-4 h-4" /> },
     { name: t('quickLinks.heritage'), href: '#heritage', icon: <History className="w-4 h-4" /> },
     { name: t('quickLinks.visit'), href: '#visit', icon: <Users className="w-4 h-4" /> }
-  ]
+ ];
 
   const handleScroll = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
     e.preventDefault()

@@ -9,7 +9,9 @@
     "philosophy": "Filozófiánk",
     "winemaker": "Borászunk",
     "awards": "Díjak",
-    "heritage": "Örökség"
+    "heritage": "Örökség",
+    "gallery": "Galéria",
+    "partner": "Partnerünk"
   },
   "hero": {
     "cellarAlt": "Male Vinice pince",
@@ -92,7 +94,9 @@
       "visit": "Látogatás",
       "philosophy": "Filozófiánk",
       "awards": "Elismerések",
-      "winemaker": "A Borász"
+      "winemaker": "A Borász",
+      "gallery": "Galéria",
+      "partner": "Partnerünk"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Minden jog fenntartva.",
@@ -115,5 +119,15 @@
     "title": "Díjnyertes Boraink",
     "points": "pont",
     "learnMore": "A verseny weboldala"
+  },
+  "gallery": {
+    "subtitle": "Pincénk",
+    "title": "A Borkészítés Folyamata"
+  },
+  "partner": {
+    "subtitle": "Partnerünk",
+    "title": "Minőségi Borosüvegek",
+    "description": "A Lankwitzer Premium Coatings, a kiváló minőségű üvegbevonatok vezető gyártója, biztosítja az elegáns borosüvegeket Olaszrizlingünkhöz.",
+    "visitWebsite": "Lankwitzer weboldala"
   }
 }

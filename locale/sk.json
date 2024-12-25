@@ -9,7 +9,9 @@
     "philosophy": "Filozofia",
     "winemaker": "Vinár",
     "awards": "Ocenenia",
-    "heritage": "Dedičstvo"
+    "heritage": "Dedičstvo",
+    "gallery": "Galéria",
+    "partner": "Partner"
   },
   "hero": {
     "cellarAlt": "Pivnica Male Vinice",
@@ -92,7 +94,9 @@
       "visit": "Navštívte Nás",
       "philosophy": "Filozofia",
       "awards": "Ocenenia",
-      "winemaker": "Vinár"
+      "winemaker": "Vinár",
+      "gallery": "Galéria",
+      "partner": "Partner"
     },
     "bottomBar": {
       "rights": "© {year} Male Vinice. Všetky práva vyhradené.",
@@ -115,5 +119,15 @@
     "title": "Ocenené Vína",
     "points": "bodov",
     "learnMore": "Navštíviť stránku súťaže"
-  }
+  },
+  "gallery": {
+   "subtitle": "Naša Pivnica",
+   "title": "Proces Výroby Vína"
+ },
+ "partner": {
+   "subtitle": "Náš Partner",
+   "title": "Kvalitné Vínne Fľaše",
+   "description": "Lankwitzer Premium Coatings, popredný výrobca vysoko kvalitných náterov na fľaše, dodáva elegantné vínne fľaše pre náš Rizling vlašský.",
+   "visitWebsite": "Navštíviť Lankwitzer"
+ }
 }

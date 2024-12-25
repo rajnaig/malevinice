@@ -9,7 +9,9 @@
       "philosophy": "Filosofia",
       "winemaker": "Il Vinicoltore",
       "awards": "Riconoscimenti",
-      "heritage": "Eredità"
+      "heritage": "Eredità",
+      "gallery": "Galleria",
+      "partner": "Partner"
     },
     "hero": {
       "cellarAlt": "Cantina Male Vinice",
@@ -92,7 +94,10 @@
         "visit": "Visitaci",
         "philosophy": "Filosofia",
         "awards": "Riconoscimenti",
-        "winemaker": "Il Vinicoltore"
+        "winemaker": "Il Vinicoltore",
+        "gallery": "Galleria",
+        "partner": "Partner"
+
       },
       "bottomBar": {
         "rights": "© {year} Male Vinice. Tutti i diritti riservati.",
@@ -115,5 +120,15 @@
       "title": "I Nostri Vini Premiati",
       "points": "punti",
       "learnMore": "Visita il sito del concorso"
+    },
+    "gallery": {
+      "subtitle": "La Nostra Cantina",
+      "title": "Il Processo di Vinificazione"
+    },
+    "partner": {
+      "subtitle": "Il Nostro Partner",
+      "title": "Bottiglie di Qualità",
+      "description": "Lankwitzer Premium Coatings, produttore leader di rivestimenti di alta qualità per bottiglie, fornisce le eleganti bottiglie per il nostro Riesling Italico.",
+      "visitWebsite": "Visita Lankwitzer"
     }
   }
