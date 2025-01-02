@@ -23,7 +23,7 @@ export function Partner() {
               <div className="flex items-center gap-4">
                 <Image
                   src="/images/lankwitzer-logo.png"
-                  alt="Lankwitzer Premium Coatings"
+                  alt="Lankwitzer"
                   width={160}
                   height={64}
                   className="object-contain"
@@ -49,7 +49,7 @@ export function Partner() {
             <div className="relative aspect-[16/9] rounded-2xl overflow-hidden shadow-lg group">
               <Image
                 src="/images/IMG-20241225-WA0003.jpg"
-                alt="Wine production with Lankwitzer"
+                alt="Partnership with Lankwitzer"
                 fill
                 className="object-cover object-[center_20%] transition-transform duration-700 group-hover:scale-105"
               />
